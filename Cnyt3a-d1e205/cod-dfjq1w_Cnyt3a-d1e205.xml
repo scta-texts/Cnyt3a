@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Liber I, Distinctio 2, Quaestio 1 [UPenn 727 Transcription]</title>
+        <author>Peter Gracilis</author>
+        <editor>Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Liber I, Distinctio 2, Quaestio 1 [UPenn 727 Transcription]</title>
+          <date when="2015-07-28">July 28, 2015</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dfjq1w">UPenn 727</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2015-07-28" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="39-r"/>
+        <pb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="anon1-l1d2q1">
+        <head>Liber 1, Distinctio 2, Quaestio 1 [UPenn 727 Transcription]</head>
+        <p>
+          <lb ed="#P"/>hoc itaque vera ac pia fide 
+          <lb ed="#P"/><unclear>tenend??</unclear> 
+          <lb ed="#P"/>quod trinitas fit unus 
+          <lb ed="#P"/>deus et solus verus deus 
+          <lb ed="#P"/>Quoniam magister in hac 2a distinctione primi libri hic ostendentia 
+          <lb ed="#P"/>nititur ex sacris aut auctoritatibus deum esse et tantum deberet 
+          <lb ed="#P"/>unum esse Ideo circa istam distinctam quaero primo istam quaestionem
+        </p>
+        <p>
+          <lb ed="#P"/><g ref="#pilcrow"/>Utrum deum esse sit ratione naturali efficaciter demonstrabile 
+          <lb ed="#P"/>Et quod parte negativa arguo primo sic Illud verum quod est 
+          <lb ed="#P"/>primum principium significabile complexe non est demonstrabile sed deum esse est 
+          <lb ed="#P"/>primum principium significabile complexe ergo deum esse non est demonstrabile 
+          <lb ed="#P"/>primum assumptum probatur quoniam omne quid demonstratur <sic>demonstratur</sic> 
+          <lb ed="#P"/>ex aliquo vero priori quid est principium demonstratum respectu eius quid 
+          <lb ed="#P"/>est demonstrabile ergo illud verum quid est primum principium complexum 
+          <lb ed="#P"/>non est demonstrabile alias esset primum et non primum quod est contradictio
+        </p>
+        <p>
+          2o ad idem sit ullum verum per se notum est demonstrabile 
+          <lb ed="#P"/>deum esse est verum per se notum ergo deum esse non de<lb ed="#P"/>monstrabile 
+          primum assumptum potest haberi ex <ref>primo <title ref="#PosteriorAnalytics">posteriorum</title></ref> 
+          <lb ed="#P"/>quoniam ut ibi patet omne demonstrabile est dubitabile ergo nullum 
+          <lb ed="#P"/>tale est per se notum  <g ref="#slash"/>Item propositiones per se notae sunt principia 
+          <lb ed="#P"/>demonstrationum et non conclusiones ut ibidem patet igitur
+        </p>
+        <p>
+          3o ad 
+          <lb ed="#P"/>idem sic omne demonstrabile habet causam suae veritatis per quam 
+          <lb ed="#P"/>potest demonstrari tamquam a priori sed deum esse non habet causam 
+          <lb ed="#P"/>ergo non potest demonstrari primum assumptum patet <ref>primae <title ref="#PosteriorAnalytics">posteri<lb ed="#P"/>orum</title></ref> 
+          ubi habetur quod demonstratio est ex prioribus 
+          <lb ed="#P"/>etc
+        </p>
+        <p>
+          <g ref="#pilcrow"/>4o ad idem Si quaestio esset vera sequeretur quod ratione naturali pos<lb ed="#P"/>set 
+          efficaciter demonstrari tantum unum deum esse consequens filii et 
+          <cb ed="#P" n="b"/><!-- 39rb -->
+          <lb ed="#P"/>consequentia probatur quoniam omnis ratio quae efficaciter <unclear>concluderat</unclear> deum 
+          <lb ed="#P"/>esse concluderat etiam tantum unum deum esse et falsitas consequentis patet 
+          <lb ed="#P"/>ex eo quod nulla ratione naturali potest efficaciter probari quod tres 
+          <lb ed="#P"/>personae divinae sint unus deus
+        </p>
+        <p>
+          <g ref="#pilcrow"/> In oppositum et vel parte 
+          <lb ed="#P"/>affirmativa quaestionis arguitur sic Ratione naturali est efficaciter 
+          <lb ed="#P"/><sic>efficaciter</sic> demonstrabile esse unum ultimum finem rerum et unam 
+          <lb ed="#P"/>primam causam efficientem ergo quaestio quod parte affirmativa vera 
+          <lb ed="#P"/>antecedens patet ex demonstrationibus <name ref="#Aristotle">aristotelis</name> in pluribus locis 
+          <lb ed="#P"/>et aliorum <unclear>cacholicorum</unclear> ex rationibus naturalibus procedentium 
+          <lb ed="#P"/>ad ostendendum deum esse
+        </p>
+        <!-- divisio quaestio -->
+        <p>
+          <lb ed="#P"/><g ref="#pilcrow"/>In ista quaestione iuxta materias 4or 
+          <lb ed="#P"/>articulorum ad partem negativam factorum 4or decidam articulos per<lb ed="#P"/>tractandas 
+          Et primus <unclear>erit</unclear> iuxta materiam primi argumenti utrum deum 
+          <lb ed="#P"/>esse sit primum principium significabile <corr><del rend="expunctuated">complexum</del> <add place="inLine">complexe</add></corr> et quoniam ostenderetur quod non 
+          <lb ed="#P"/>Ideo 2us articulus erit iuxta materiam 2i argumenti utrum deum esse sit 
+          <lb ed="#P"/>verum omnibus per se notis Et quoniam ostendetur quod non Ideo 3us articulus 
+          <lb ed="#P"/>erit iuxta materiam 3i argumenti utrum deum esse sit verum naturali ratione 
+          <lb ed="#P"/>efficaciter demonstrabile Et quoniam ostendetur quod sic Ideo 4us articulus erit 
+          <lb ed="#P"/>utrum tantum unum deum esse sit naturali idem efficaciter demonstrabile
+        </p>
+        <!-- article 1 -->
+        <p>
+          <lb ed="#P"/>
+          <g ref="#pilcrow"/>Quantum ad primum articulum est positio <name ref="#Ripa">cuiusdam moderni 
+          <lb ed="#P"/>doctoris</name> quod deum esse est primum principium significabile complexe et hanc conclusionem 
+          <lb ed="#P"/><unclear>inti?</unclear> deducetur per aliquas conclusiones praecedentes quarum prima 
+          <lb ed="#P"/>est ista
+        </p>
+        <p>
+          <g ref="#pilcrow"/>nullum verum enuntians aliqualiter esse vel non 
+          <lb ed="#P"/>esse de aliquo citra deum est simpliciter primum verum complexe significabile istam 
+          <lb ed="#P"/>conclusionem probat sit quodlibet verum vel est <choice><orig>neccessariam</orig><reg>necessariam</reg></choice> vel continges 
+          <lb ed="#P"/>ergo quodlibet verum enuntians aliqualiter esse vel non esse de crea<lb ed="#P"/>tura 
+          vel contingenter enuntiat vel <choice><orig>neccessario</orig><reg>necessario</reg></choice> Si primo modo patet quod 
+          <lb ed="#P"/>tale verum non est simpliciter primum verum cum habeat causam suae 
+          <lb ed="#P"/>veritatis Si 2o modo probatur quod nullum tale est primum verum quoniam 
+          <lb ed="#P"/>si ipsum est <choice><orig>neccessariam</orig><reg>necessariam</reg></choice> valeret et nihil est <choice><orig>neccessariam</orig><reg>necessariam</reg></choice> nisi aliqua <choice><orig>neccessitate</orig><reg>necessitate</reg></choice> 
+          <lb ed="#P"/>sit <choice><orig>neccessariam</orig><reg>necessariam</reg></choice> talis necessitas vel est intrinseca dato nota 
+          <lb ed="#P"/>et hoc non potest esse cum nulla sit <choice><orig>neccessitas</orig><reg>necessitas</reg></choice> absolute intrinseca 
+          <lb ed="#P"/>alicui citra deum vel extrinseca et talis non potest esse nisi <choice><orig>neccessitas</orig><reg>necessitas</reg></choice> 
+          <lb ed="#P"/>voci prioris bene sequens verum denotatur extrinsece <choice><orig>neccessariam</orig><reg>necessariam</reg></choice> 
+          <lb ed="#P"/>et consequens datum verum non est simpliciter <unclear>primum</unclear> deum
+        </p>
+        <p>
+          <g ref="#pilcrow"/>2o <corr><del rend="expunctuated">modo</del></corr> sic 
+          <lb ed="#P"/>si conclusio non sit vera hoc maxime esset <unclear>deu?cro</unclear> enuntiante 
+          <lb ed="#P"/>subiuttione extremorum contradictionis ut potet de qulibet 
+          <lb ed="#P"/>esse vel non esset <g ref="#slash"/> et probo quod nullum tale est simpliciter 
+          <lb ed="#P"/>primum verum <g ref="#dot"/> Nam nullum tale verum est intrinsece verum vel ne<lb ed="#P"/>cessarium 
+          ergo non est primum verum consequentia patet nam primum verum 
+          <lb ed="#P"/>est per se verum circumscripto quocumque extrinseco et antecedens 
+          <lb ed="#P"/>patet Nam nullum tale verum ponit aliquod in re de qua 
+          <lb ed="#P"/>enuntiat sibi intrinsecum ut notum est
+        </p>
+        <p>
+          <g ref="#pilcrow"/>3o sic quodlibet tale 
+          <lb ed="#P"/>verum intellectus divinis intelligit a priori ergo nullum tale 
+          <lb ed="#P"/>verum est primum verum consequentia patet et antecedens probatur quoniam omne tale 
+          <lb ed="#P"/>intellectus divnus scit per essentia suam ergo essentia divina est evi<lb ed="#P"/>dens 
+          ratio sciendi et concludendi quodcumque tale verum vel 
+          <lb ed="#P"/>ergo a priori vel a posteriori vel a convertibili Si primo modo habetur 
+          <lb ed="#P"/>propositum Si 2o modo ergo intellectus divinus cum dependet ab aliquo 
+          <lb ed="#P"/>tali quod est impossibile nec 3o modo quoniam talia vera essent coeva 
+          <lb ed="#P"/>et aequa primo sed hoc impossibile quod aliqua duo vera sint simpliciter 
+          <lb ed="#P"/>prima
+        </p>
+        <p>
+          <g ref="#pilcrow"/>praeterea omnis scientia vel est causa rei vel est causa a 
+          <lb ed="#P"/>re ex <name ref="#Averroes">commentatore</name> 12o <title>metaphysicae</title> commento 51o ergo quod tale verum 
+          <lb ed="#P"/>est causa scientiae divinae vel econverso non primum ergo 2m
+        </p>
+        <p>
+          Item naturaliter in 
+          <lb ed="#P"/>creatura potest esse tam alicuius perfecitonis simpliciter in deo sed deum 
+          <lb ed="#P"/><del rend="expunctuated">stare</del> scire aliquod tale verum est perfectio simpliciter ergo
+        </p>
+        <p>
+          <g ref="#pilcrow"/>4o sic 
+          <lb ed="#P"/>primum verum simpliciter est immense evidens ex natura sui ergo 
+          <lb ed="#P"/>conclusio vera consequentia patet quoniam nullum verum de creatura est tale et 
+          <lb ed="#P"/>antecedens probatur primo quia tale verum continet <unclear>enune?ter</unclear> omne aliud verum 
+          <lb ed="#P"/>sicut prima et principalis causa veritatis in aliis
+        </p>
+        <p>
+          <g ref="#pilcrow"/>2o quia in<lb ed="#P"/>finite 
+          evidens potest esse aliquod verum <unclear>aliter</unclear> in proprio <unclear>genere</unclear> 
+          <lb ed="#P"/>sicut intelligentiae infinite creabili si esset infinite e<lb ed="#P"/>videns 
+          esset sibi ipsi in propri genere se esse
+        </p>
+        <p>
+          <g ref="#pilcrow"/>3o quia in<lb ed="#P"/>finite 
+          potest esse aliquid veritatis in vero
+        </p>
+        <p>
+          <g ref="#pilcrow"/>4o quia verum infinite 
+          <lb ed="#P"/>evidenter est notitia omnis veri intellectui divino
+        </p>
+        <p>
+          <g ref="#pilcrow"/>5o argui sic quodlibet verum <choice><orig>neccessearium</orig><reg>necessarium</reg></choice> est aeternum verum secundum per articulum 
+          <pb ed="#P" n="39-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P"/>erronea est ponentia plures veritates aeternas igitur
+        </p>
+        <p>
+          <g ref="#pilcrow"/>2a conclusio 
+          <lb ed="#P"/>istius doctoris est hoc nullum verum affirmativum vel nega<lb ed="#P"/>tivum 
+          qualiter enuntians aliqualiter esse vel non esse de creaturis 
+          <lb ed="#P"/>est verum in mediatum Ista conclusio probatur ex praecedenti nam omne 
+          <lb ed="#P"/>verum demonstrabile ex vero priori est verum mediatum sed quodlibet 
+          <lb ed="#P"/>tale est huiusmodi ergo etc maior patet nam quodlibet tale verum habet 
+          <lb ed="#P"/>extrinsecam causam suae veritatis minor patet ex praecedenti conclusione 
+          <lb ed="#P"/>nam quodlibet verum quod non est primum verum est verum a primo vero et 
+          <lb ed="#P"/>nullum tale est primum verum ergo etc.
+        </p>
+        <p>
+          <g ref="#pilcrow"/>3a conclusio est ista nul<lb ed="#P"/>lum 
+          verum enuntians aliqualiter esse vel non esse de crea<lb ed="#P"/>tura 
+          est verum proprie per se notum Ista conclusio probatur sic nullum verum 
+          <lb ed="#P"/>demonstrabile ex prior vero vel dependens in esse veri a priori 
+          <lb ed="#P"/>vero vel habens evidentiam ex priori nota est proprie per se notum sed quod 
+          <lb ed="#P"/>licet tale verum enuntians qualitercumque esse vel non esse 
+          <lb ed="#P"/>de terminata est huiusmodi ergo etc
+        </p>
+        <p>
+          <g ref="#pilcrow"/>4a conclusio primum principium quod ponit 
+          <lb ed="#P"/><name ref="#Aristotle">philosophus</name> 4o <title ref="#Metaphysics">metaphysicae</title> non est verum simpliciter primum nec proprie per 
+          <lb ed="#P"/>se notum Illud enim principium de quolibet esse vel non esse et 
+          <lb ed="#P"/>de nullo simul non est primum principium simpliciter licet sit notissi<lb ed="#P"/>mum 
+          apud nos nam huiusmodi verum quod sit <g ref="#dot"/> <c>a</c> <g ref="#dot"/> deus scit 
+          <lb ed="#P"/>per essentiam suam ergo essentia dei est medium evidens inferendi 
+          <lb ed="#P"/><g ref="#dot"/><c>a</c><g ref="#dot"/> esse verum sed deductum fuit in prima conlcusione ergo prius est 
+          <lb ed="#P"/>essentiam dei esse quam <g ref="#dot"/> <c>a</c> <g ref="#dot"/> esse verum Item <g ref="#dot"/> <c>a</c> <g ref="#dot"/> non est evidens 
+          <lb ed="#P"/>intellectui divino per se ipsum huiusmodi enim verum nihil ponit ergo non 
+          <lb ed="#P"/>potest esse evidens per se ipsum <unclear>alicui</unclear> et per consequens id est verum est 
+          <lb ed="#P"/>evidens intellectui divino ex aliquo vero priori et ex hoc 
+          <lb ed="#P"/>patet quod <unclear cert="low">etiam</unclear> huiusmodi verum non est simpliciter per se notum licet quo 
+          <lb ed="#P"/>ad nos sit per se notum non enim est nobis evidens ex 
+          <lb ed="#P"/>aliquo vero priori
+        </p>
+        <p>
+          <g ref="#pilcrow"/>5a conclusio dolum verum enuntians ali<lb ed="#P"/>qualiter 
+          esse vel non esse de divina essentia est simpliciter primum 
+          <lb ed="#P"/>verum Ista patet ex prioribus nullum enuntians aliqualiter esse 
+          <lb ed="#P"/>vel non esse de aliqua essentia circa primam potest esse simpliciter 
+          <lb ed="#P"/>primum verum sed aliquod est simpliciter primum verum ergo huiusmodi est verum de es<lb ed="#P"/>sentia 
+          increata
+        </p>
+        <p>
+          <g ref="#pilcrow"/>praeterea essentia divina est simpliciter prima essentia 
+          <lb ed="#P"/>et per se <choice><orig>neccesse</orig><reg>necesse</reg></choice> esse ergo tantum verum enuntians de ipsa essentia 
+          <lb ed="#P"/>vel sic esse est primum verum
+        </p>
+        <p>
+          <g ref="#pilcrow"/>praeterea divina essentia quodlibet verum 
+          <lb ed="#P"/>quod non enuntiat de se ipsa repraesentat a priori per se 
+          <lb ed="#P"/>ipsam ergo tantum verum enuntians de se ipsa potest esse simpliciter 
+          <lb ed="#P"/>primum verum
+        </p>
+        <p>
+          <g ref="#pilcrow"/>6a conclusio nullum negative enuntians de divina essentia 
+          <lb ed="#P"/>potest esse simpliciter primum verum probantes istius dimitto quia non 
+          <lb ed="#P"/>faciunt magnam difficultatem ad propositum
+        </p>
+        <p>
+          <g ref="#dbslash"/>7a conclusio 
+          <lb ed="#P"/>quodlibet enuntians aliquam perfectionem simpliciter de divina 
+          <lb ed="#P"/>essentia est verum infinite evidens ex natura sui et per se no<lb ed="#P"/>tum 
+          divino intellectui probatur nam quodcumque istorum verum deum esse 
+          <lb ed="#P"/>vitam deum esse sapientiam est huiusmodi notum intellectui divino per 
+          <lb ed="#P"/>suam perfectionem simpliciter quam enuntiat quae omnino <choice><orig>inmensa</orig><reg>immensa</reg></choice> 
+          <lb ed="#P"/>et per se <choice><orig>neccessaria</orig><reg>necessaria</reg></choice> esse et non est de divinalis ab alia ullo modo
+        </p>
+        <p>
+          <g ref="#pilcrow"/>8a conclusio deum esse potest aliquo modo dici simpliciter primum verum et prius 
+          <lb ed="#P"/>quolibet alio quod enuntiat positive de divina essentia 
+          <lb ed="#P"/>Ista conclusio probatur nam inter perfectiones simpliciter in divina essentia quamvis 
+          <lb ed="#P"/>non sit aliquis ordo causalis ita quod una oriatur ab altera 
+          <lb ed="#P"/>tamen aliquis ordo est ex natura quo una perfectio simpliciter 
+          <lb ed="#P"/>aliam praesupponit puta sapientia <corr><del rend="underline">vitam</del></corr> vita essentiam ergo solum 
+          <lb ed="#P"/>verum enuntians primam perfectionem simpliciter de divina essentia 
+          <lb ed="#P"/>est simpliciter primum verum huius autem est deum esse Ex positis conclusio<lb ed="#P"/>nibus 
+          cum suis probationibus patet tota <choice><orig>ymaginatio</orig><reg>imaginatio</reg></choice> <name>istius doc<lb ed="#P"/>toris</name> 
+          circa investigationem primi principii complexi et tum inter omnia 
+          <lb ed="#P"/>enuntiabilia tam de creatura quam de divina essentia deum esse est 
+          <lb ed="#P"/>simpliciter primum verum ac per hoc primum principium complexum Sed quamvis 
+          <lb ed="#P"/>ista positio videatur pulchra et ingeniosa verumptamen multipliciter 
+          <lb ed="#P"/>deficit et in multis fundamentis tam quo ad mediatam consi<lb ed="#P"/>derationem 
+          quam quo ad <corr><del>ad</del></corr> doctrinam traditam in libris pos<lb ed="#P"/>teriorum 
+          Ideo circa istum articulum servabo hunc ordinem quia primo 
+          <lb ed="#P"/>praemittam aliquas distinctiones utiles ad propositum 
+          <lb ed="#P"/>2o respondebo ad articulum per alium modum quam fecerit prae<lb ed="#P"/>cedens 
+          positio
+        </p>
+        <p>
+          <g ref="#pilcrow"/>3o ostendam quod conclusiones quas illa positio 
+          <lb ed="#P"/>praemittit ad investigandum hanc finale quod deum esse 
+          <cb ed="#P" n="39vb"/><lb ed="#P"/>sit primum principium significabile <corr><del>complexe</del></corr> complexe eam non sufficientia 
+          <lb ed="#P"/>concludunt
+        </p>
+        <p>
+          <g ref="#pilcrow"/>4o ostendam quod rationes quibus illae conclusio<lb ed="#P"/>nes 
+          probantur quae praemittuntur non sunt efficaces ad proban<lb ed="#P"/>dum 
+          eas nec sunt bene <unclear>fundatae</unclear> quidquid sit de conclusionibus ipsis et cum 
+          <lb ed="#P"/>hoc ostendam quae illarum conclusionum sunt falsae
+        </p>
+        <p>
+          <g ref="#pilcrow"/>primo praemitto unam 
+          <lb ed="#P"/>distinctionem de esse quam tripliciter sumitur quantum ad praesens spectat 
+          <lb ed="#P"/>primo pro esse essentiae
+        </p>
+        <p>
+          <g ref="#pilcrow"/>2o quod esse actualis existentiae
+        </p>
+        <p>
+          <g ref="#dash"/>3o pro 
+          <lb ed="#P"/>esse quod dicit veritatem propositionis Ista distinctio ponitur ab <ref><name ref="#Aristotle">aristotele</name> 
+          <lb ed="#P"/>5o <title ref="#Metaphysics">metaphysicae</title></ref> et a <name ref="#Averroes">commentatore</name> ibidem esse nameque essentiae id est quod essentiam 
+          <lb ed="#P"/>dicit essentiam est commune ad <ref>X <title ref="#Categories">praedicamenta</title></ref> Et ideo dicit esse principale ab 
+          <lb ed="#P"/>hoc esse venit ens transcendens et anologum commune ad 
+          <lb ed="#P"/>omne quod habet positivam ratione non multiplicantem contradictionem
+        </p>
+        <p>
+          <lb ed="#P"/><g ref="#pilcrow"/>Esse nullo actualis existentiae est illud esse per quod una quaecumque 
+          <lb ed="#P"/>res quae actu est in rerum natura et existit sic existit et est 
+          <lb ed="#P"/>a quo etiam multae essentiae et entitates possunt cadere in non esse 
+          <lb ed="#P"/>ei oppositum de hoc etiam dicimus quod <del rend="strikethrough">no</del> ante christus non dum est 
+          <lb ed="#P"/>sed potest esse et <name ref="#Adam">adam</name> iam non est sed fuit
+        </p>
+        <p>
+          <g ref="#pilcrow"/>Esse autem 
+          <lb ed="#P"/><unclear>quod <!-- quid --></unclear> dicit veritatem propositionis est aliud ab utroque istorum de quo 
+          <lb ed="#P"/><name ref="#Aristotle">aristoteles</name> 2o <title>posteriorum</title> volens probare quod demonstratio non demonstrat 
+          <lb ed="#P"/>quod quid est sed demonstrat esse dicit quod esse non est quid rei 
+          <lb ed="#P"/>nec est substantia rei quia tunc ens esset genus quod est falsum per quod 
+          <lb ed="#P"/>patet quod hoc esse in quo stat veritas propositionis est aliud ab utroque 
+          <lb ed="#P"/>praecedentium Nam primum esse quod dicit essentiam rei non demonstratur 
+          <lb ed="#P"/>ut vult <ref><name ref="#Aristotle">aristoteles</name> ibidem</ref> nec 2m esse <unclear>quod <!-- quid --></unclear> dicit existentiam rei sive 
+          <lb ed="#P"/>eius existentia demonstratur quoniam quod demonstratur est <choice><orig>neccessarium</orig><reg>necessarium</reg></choice> 
+          <lb ed="#P"/>ut patet <ref>primo <title ref="#PosteriorAnalytics">posteriorum</title></ref> Existentia autem <unclear>sive</unclear> existentia rei 
+          <lb ed="#P"/>non est <choice><orig>neccessarium</orig><reg>necessarium</reg></choice> cum res contingenter existant Et etiam quia esse 
+          <lb ed="#P"/>existentia est particularium etiam <choice><orig>in dividuorum</orig><reg>individuorum</reg></choice> quorum non est 
+          <lb ed="#P"/>demonstratio nec scientia hoc autem esse dicit habitudinem praedicati ad subiectum 
+          <lb ed="#P"/>in qua habitudine consistit veritas et falsitas propositionis de 
+          <lb ed="#P"/>hoc etiam esse dicit <ref><name ref="#Aristotle">aristoteles</name> 2o <title ref="#PosteriorAnalytics">posteriorum</title></ref> quod <choice><orig>neccessaria</orig><reg>necessaria</reg></choice> est esse <unclear>quod <!-- quid --></unclear> 
+          <lb ed="#P"/>demonstratur quod utique non potest intelligi de esse quod dicit essentiam 
+          <lb ed="#P"/>rei cum ibidem dicat quod non demonstratur quod quid est nec potest in<lb ed="#P"/>telligi 
+          de esse quod dicit existentia rei cum istud esse non sit <choice><orig>neccessariam</orig><reg>necessariam</reg></choice> 
+          <lb ed="#P"/>ut dictum et de facto de rosa non existente et aliis naturis specificis 
+          <lb ed="#P"/>non dum existentibus multa possunt demonstrari sed quia hoc esse 
+          <lb ed="#P"/>quod dicit veritatem propositionis non est nobis <choice><orig>neccessariam</orig><reg>necessariam</reg></choice> ad propositum 
+          <lb ed="#P"/>Ideo regulum qualiter <unclear>diligentia</unclear> autem notanda est distinctio <unclear>interpria?<lb ed="#P"/>duo</unclear> 
+          membra valet inter esse essentiae et esse existentiae rei quam 
+          <lb ed="#P"/>antiqui et sollempnes doctores diligentissime atten<lb ed="#P"/>derunt 
+          sed moderni eam non capiunt Ideo necessaria est ut in multis 
+          <lb ed="#P"/>recedant a vero
+        </p>
+        <p>
+          <g ref="#pilcrow"/>Advertendum autem quod quidam sollemp<lb ed="#P"/>nes 
+          doctores in tantum distinxerunt inter esse esentiae et esse 
+          <lb ed="#P"/>actualis existentiae quod inter ea posuerunt distinctionem realem 
+          <lb ed="#P"/>dicentes quod esse existere realiter differt ab essentia quae per tale esse est et 
+          <lb ed="#P"/>existit <g ref="#dash"/> Alii <unclear>nullo modo</unclear> distinguunt <unclear>quid</unclear> inter essentiam et eius esse 
+          <lb ed="#P"/>existentia sed non ponunt distinctionem realem sed solum rationis quid<lb ed="#P"/>quid 
+          tamen sit de hac contraversia non sit cur ad praesens <g ref="#slash"/> tantum autem 
+        constet quod simul in hoc conveniunt quod esse essentiae sive ipsa essentia 
+          <lb ed="#P"/>rei distinguitur a suo esse existentia saltem sit linea a sua 
+          <lb ed="#P"/>rectitudine et quod distinguantur hoc duo ad <choice><orig>in vicem</orig><reg>invicem</reg></choice> patet 
+          <lb ed="#P"/>multipliciter <g ref="#slash"/> primo quia esse essentiae est esse <unclear>praedicamentale</unclear> per quod una 
+          <lb ed="#P"/>quaequae res reponitur indeterminato <unclear>praedicato</unclear> et est res determinati 
+          <lb ed="#P"/><unclear>g??nis</unclear> et habet suam quidditatem
+        </p>
+        <p>
+          <g ref="#pilcrow"/>unde istud esse pertinet ad quidi<lb ed="#P"/>tatem 
+          rei et ideo praedicatur de re essentialiter et in primo modo dicendi 
+          <lb ed="#P"/>per se per esse autem existentia nulla res reponitur in determinato 
+          <lb ed="#P"/>praedicamento nec est res determinatio generis nec tale esse pertinet ad 
+          <lb ed="#P"/>quidditatem rei ideo nec praedicatur essentialiter de re sed actualiter solum 
+          <lb ed="#P"/>Ista enim homo est vel leo est si ly est dicat existentia rei non 
+          <lb ed="#P"/>est praedicatio essentialis sed accidentalis tantum
+        </p>
+        <p>
+          <g ref="#pilcrow"/>Si nullo dicat esse essentiae 
+          <lb ed="#P"/><unclear>sive</unclear> essentiam praedicato est essentialis Ideo <ref><name ref="#Averroes">commentator</name> 5o <title>metaphysicae</title></ref> ubi <name ref="#Aristotle">aristoteles</name> 
+          <lb ed="#P"/>dat distinctionem istam dicit quod quaestio de ente uno modo collo<lb ed="#P"/>catur  
+          in quaestionibus <unclear>generalis</unclear> Alio modo collocatur in quaestionibus <unclear>ac<lb ed="#P"/>cidentis</unclear> 
+          cum enim esse dicit essentiam rei <unclear>quaestio</unclear> de tali esse collocatur 
+          <lb ed="#P"/>in quaestionibus <unclear>generalis</unclear> quoniam est <unclear>quaestio</unclear> ad quod genus pertineat 
+          <pb ed="#P" n="40-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P"/>res Cum nullo esse dicit existentia rei tunc <unclear>quaestio</unclear> de esse collo<lb ed="#P"/>catur 
+          in quaestionibus accidentis quoniam tale esse accidit rei
+        </p>
+        <p>
+          <lb ed="#P"/><g ref="#pilcrow"/>3o 
+        </p>
+        <!-- 40va rehearses 10 arguments of John of Lana, against a real distinction between essence and existence; a position noted as distinctive of Lana by
+          zumekellar, p. 34 of translation. Could be important becuase we don't have a sentence commentary by Lana. These arguments could also be in the edition of 
+          Quaestiones extraordinariae edited by Gutierrez. This author refutes all 10 arguments. -->
+        
+        <!-- 45ra slam against Ripa "Iste doctor omnino se ostendit inperitum in arte demonstraiva quae traditur in libris posteriorum et --> 
+      </div>
+    </body>
+  </text>
+</TEI>
