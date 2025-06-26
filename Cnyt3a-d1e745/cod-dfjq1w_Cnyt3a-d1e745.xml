@@ -3,7 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title>Liber 1, Distinctio 7, Quaestio 1 [UPenn 727 Transcription]</title>
-        <author>Peter Gracilis</author>
+        <author>Anonymous</author>
         <editor>Jeffrey C. Witt</editor>
       </titleStmt>
       <editionStmt>
@@ -43,323 +43,987 @@
   <text xml:lang="la">
     <front>
       <div xml:id="starts-on">
-        <pb ed="#P" n="39-r"/>
+        <pb ed="#P" n="102-v"/>
         <pb ed="#P" n="a"/>
       </div>
     </front>
     <body>
-      <div xml:id="Cnyt3a-d1e745">
-        <head xml:id="Cnyt3a-d1e745-Hd1e97">Liber 1, Distinctio 7, Quaestio 1 [UPenn 727 Transcription]</head>
+      <div xml:id="Cnyt3a-d1e745"><!-- l1d7q1 -->
+        <head xml:id="Cnyt3a-d1e745-Hd1e97">Quaestio 1 [UPenn 727 Transcription]</head>
         <p xml:id="Cnyt3a-d1e745-d1e100">
-          Hic solet 
-          <lb ed="#P"/>quaeri a qui<lb ed="#P"/>busdam 
-          <lb ed="#P"/><unclear><unclear>quondam</unclear></unclear> magister in hac <unclear>septima</unclear> dis<lb ed="#P"/>tinctione
+          <lb ed="#P" n="1"/>Hic solet 
+          <lb ed="#P" n="2"/>quaeri a qui<lb ed="#P" break="no" n="3"/>busdam 
+          <lb ed="#P" n="4"/><unclear><unclear>quondam</unclear></unclear> magister in hac <unclear>septima</unclear> dis<lb ed="#P" break="no" n="5"/>tinctione
           investigat de potentia 
-          <lb ed="#P"/>generandi in divinis <unclear><name xml:id="Cnyt3a-d1e745-Nd1e120">Joannes</name></unclear> circa di<lb ed="#P"/>stinctionem 
+          <lb ed="#P" n="6"/>generandi in divinis <unclear><name xml:id="Cnyt3a-d1e745-Nd1e120">Joannes</name></unclear> circa di<lb ed="#P" break="no" n="7"/>stinctionem 
           istam quaero istam 
-          <lb ed="#P"/>quaestionem utrum possit generare verbum
-          <lb ed="#P"/>dicat perfectionem simpliciter Et arguo
-          <lb ed="#P"/>quod non primo sic Potentia <unclear>genera<lb ed="#P"/>tiva</unclear> 
+          <lb ed="#P" n="8"/>quaestionem utrum possit generare verbum
+          <lb ed="#P" n="9"/>dicat perfectionem simpliciter Et arguo
+          <lb ed="#P" n="10"/>quod non primo sic Potentia <unclear>genera<lb ed="#P" break="no" n="11"/>tiva</unclear> 
           verbi in patre non est potentia
-          <lb ed="#P"/>vere <unclear>activa</unclear> cui <unclear>tota nec debeat beata</unclear>
-          <lb ed="#P"/> actio igitur et tertia (slash) assumptis probatur <unclear><unclear>quondam</unclear></unclear>
-          <lb ed="#P"/><unclear>generatione</unclear> in divinis non est vere agere aut quidam volunt igitur <unclear>nes</unclear>
-          <lb ed="#P"/>potentia <unclear>generativa</unclear> est vere <unclear>activa</unclear>
+          <lb ed="#P" n="12"/>vere <unclear>activa</unclear> cui <unclear>tota nec debeat beata</unclear>
+          <lb ed="#P" n="13"/> actio igitur et tertia (slash) assumptis probatur <unclear><unclear>quondam</unclear></unclear>
+          <lb ed="#P" n="14"/><unclear>generatione</unclear> in divinis non est vere agere aut quidam volunt igitur <unclear>nes</unclear>
+          <lb ed="#P" n="15"/>potentia <unclear>generativa</unclear> est vere <unclear>activa</unclear>
         </p>
         <p xml:id="Cnyt3a-d1e745-d1e168">
           <g ref="#pilcrow"/>2o ad quaestionem arguo <unclear>punctuation</unclear> potentia
-          <lb ed="#P"/>generandi in divinis est <unclear>proprietas</unclear> personalis solius patris ergo posse
-          <lb ed="#P"/>generare non dicit <unclear>perfective</unclear> simpliciter consequentia patet <unclear>quondam</unclear> nulla perfectio simpliciter
-          <lb ed="#P"/>est propria alicui persone domine sed communis Et assumptum patet <unclear>quondam</unclear> generare
-          <lb ed="#P"/>est proprium patri et per consequens posse generare est proprium patri ergo et potentia
-          <lb ed="#P"/>generandi
+          <lb ed="#P" n="16"/>generandi in divinis est <unclear>proprietas</unclear> personalis solius patris ergo posse
+          <lb ed="#P" n="17"/>generare non dicit <unclear>perfective</unclear> simpliciter consequentia patet <unclear>quondam</unclear> nulla perfectio simpliciter
+          <lb ed="#P" n="18"/>est propria alicui persone domine sed communis Et assumptum patet <unclear>quondam</unclear> generare
+          <lb ed="#P" n="19"/>est proprium patri et per consequens posse generare est proprium patri ergo et potentia
+          <lb ed="#P" n="20"/>generandi
         </p>
         <p xml:id="Cnyt3a-d1e745-d1e199">
           <g ref="#pilcrow"/>3o ad quaestionem <unclear>maiorem</unclear> Si posse generare diceret perfectionem
-          <lb ed="#P"/>simpliciter ergo et actualiter generare multo magis esset perfectionis simpliciter
-          <lb ed="#P"/>consequens falsim cui <unclear>contulitas</unclear> probatur Quicquid est perfectionis simpliciter in
-          <lb ed="#P"/>divinis  est infinitum et in <unclear>mensum</unclear> Sed generare verbum in divinis non
-          <lb ed="#P"/>est infinitum et in <unclear>mensum</unclear> <unclear>quondam</unclear> esset infinitum et in mensum pro<lb ed="#P"/>ducere
-          et sic terminus formalis talis productionis esset ut sic in<lb ed="#P"/>finitus
+          <lb ed="#P" n="21"/>simpliciter ergo et actualiter generare multo magis esset perfectionis simpliciter
+          <lb ed="#P" n="22"/>consequens falsim cui <unclear>contulitas</unclear> probatur Quicquid est perfectionis simpliciter in
+          <lb ed="#P" n="23"/>divinis  est infinitum et in <unclear>mensum</unclear> Sed generare verbum in divinis non
+          <lb ed="#P" n="24"/>est infinitum et in <unclear>mensum</unclear> <unclear>quondam</unclear> esset infinitum et in mensum pro<lb ed="#P" break="no" n="25"/>ducere
+          et sic terminus formalis talis productionis esset ut sic in<lb ed="#P" break="no" n="26"/>finitus
           et incusus Et cum per tale producere non si in proprietas
-          <lb ed="#P"/>personalis ergo proprietas <unclear>personlis</unclear> esset quid in mensum in persona
-          <lb ed="#P"/>producta Et <unclear>similitatis</unclear> in persona producente <unclear>his</unclear> <unclear>stanti</unclear> falsa ergo <unclear>stci</unclear>
-          <lb ed="#P"/>deum est in prime verum quod nec producere nec posse producere verbum 
-          <lb ed="#P"/>in divinis est perfectionis simpliciter Sed in oppositum arguitur <unclear>punctuation?</unclear>In qualibet
-          <lb ed="#P"/>natura intellectuali melius est et <unclear>perfectionis</unclear> posse producere verbum
-          <lb ed="#P"/>quam non posse hoc ergo posse producere dicit perfectioni simpliciter <g ref="#pilcrow"/>
+          <lb ed="#P" n="27"/>personalis ergo proprietas <unclear>personlis</unclear> esset quid in mensum in persona
+          <lb ed="#P" n="28"/>producta Et <unclear>similitatis</unclear> in persona producente <unclear>his</unclear> <unclear>stanti</unclear> falsa ergo <unclear>stci</unclear>
+          <lb ed="#P" n="29"/>deum est in prime verum quod nec producere nec posse producere verbum 
+          <lb ed="#P" n="30"/>in divinis est perfectionis simpliciter Sed in oppositum arguitur <unclear>punctuation?</unclear>In qualibet
+          <lb ed="#P" n="31"/>natura intellectuali melius est et <unclear>perfectionis</unclear> posse producere verbum
+          <lb ed="#P" n="32"/>quam non posse hoc ergo posse producere dicit perfectioni simpliciter <g ref="#pilcrow"/>
         </p>
         <p xml:id="Cnyt3a-d1e745-d1e270">
-          <lb ed="#P"/>In ista quaestione erunt quatuor articuli examinandi primus erit <unclear>mixta</unclear>
-          <lb ed="#P"/>materiam primi articuli
+          <lb ed="#P" n="33"/>In ista quaestione erunt quatuor articuli examinandi primus erit <unclear>mixta</unclear>
+          <lb ed="#P" n="34"/>materiam primi articuli
         </p>
         <p xml:id="Cnyt3a-d1e745-d1e281">
           <g ref="#pilcrow"/>Utrum potentia generativa in patre a dubitationi productionem 
-          <lb ed="#P"/>sit potentia vere activa cui <unclear>corndeat</unclear> actus de genere actionis
+          <lb ed="#P" n="35"/>sit potentia vere activa cui <unclear>corndeat</unclear> actus de genere actionis
         </p>
         <p xml:id="Cnyt3a-d1e745-d1e291">
           <g ref="#pilcrow"/>2us articulus erit <unclear>mixta</unclear> materiam 2i articuli ad partis negantiam utrum 
-          <lb ed="#P"/>potentia generativa in patre sit aliquid essentiale vel potius personale
+          <lb ed="#P" n="36"/>potentia generativa in patre sit aliquid essentiale vel potius personale
         </p>
         <p xml:id="Cnyt3a-d1e745-d1e301">
-          <g ref="#pilcrow"/>3us articulus erit <unclear>mixta</unclear> materiam 3ii articuli utrum producere per quod <unclear>fi<lb ed="#P"/>lius</unclear>
+          <g ref="#pilcrow"/>3us articulus erit <unclear>mixta</unclear> materiam 3ii articuli utrum producere per quod <unclear>fi<lb ed="#P" break="no" n="37"/>lius</unclear>
           producitur in divinis sit formatur infinitam et in mensum 
-          <lb ed="#P"/>producere vel potius solum finitum
+          <lb ed="#P" n="38"/>producere vel potius solum finitum
         </p>
         <p xml:id="Cnyt3a-d1e745-d1e316">
           <g ref="#pilcrow"/>4us articulus erit de quo quaestio
-          <lb ed="#P"/>ipsa <unclear>quaerit</unclear> utrum posse generare verbum <unclear>dicat</unclear> ex se perfectionem
-          <lb ed="#P"/>simpliciter
+          <lb ed="#P" n="39"/>ipsa <unclear>quaerit</unclear> utrum posse generare verbum <unclear>dicat</unclear> ex se perfectionem
+          <lb ed="#P" n="40"/>simpliciter
         </p>
+        <div xml:id="Cnyt3a-d1e745-Dd1e296">
+          <head xml:id="Cnyt3a-d1e745-Hd1e298">Articulus 1</head>
         <p xml:id="Cnyt3a-d1e745-d1e331">
           <g ref="#pilcrow"/>primus ergo articulus est utrum potentia generativa in patre 
-          <lb ed="#P"/>sit potentia vere activa cui <unclear>corndeat</unclear> actus de genere acti<lb ed="#P"/>onis
+          <lb ed="#P" n="41"/>sit potentia vere activa cui <unclear>corndeat</unclear> actus de genere acti<lb ed="#P" break="no" n="42"/>onis
           Lste autem articulus est formatus in quaestione propter quandam <unclear>oppinionem</unclear> 
-          <lb ed="#P"/><unclear>quae</unclear> videtur praetendere quod potentia generativa in patre non sit potentia 
-          <lb ed="#P"/>vere <unclear>elicitiva</unclear> sed sit solum connexio quaedam temporum sicut potentia qua
-          <lb ed="#P"/>pater esse deus et homo potest esse aliter  et sic de multis de quibus constat
-          <lb ed="#P"/>quod non sunt potentiae <unclear>elicitivae</unclear> autem activae nec <unclear>etiam</unclear> productivae alias
-          <lb ed="#P"/>pater posset se ipsum producere in esse patrem cum <unclear>cadi</unclear> sit potentia qua pater
-          <lb ed="#P"/>pater (sic)(rep) generare et qua pater esse pater Joannes circa istum articulus primo viden<lb ed="#P"/>dum 
+          <lb ed="#P" n="43"/><unclear>quae</unclear> videtur praetendere quod potentia generativa in patre non sit potentia 
+          <lb ed="#P" n="44"/>vere <unclear>elicitiva</unclear> sed sit solum connexio quaedam temporum sicut potentia qua
+          <lb ed="#P" n="45"/>pater esse deus et homo potest esse aliter  et sic de multis de quibus constat
+          <lb ed="#P" n="46"/>quod non sunt potentiae <unclear>elicitivae</unclear> autem activae nec <unclear>etiam</unclear> productivae alias
+          <lb ed="#P" n="47"/>pater posset se ipsum producere in esse patrem cum <unclear>cadi</unclear> sit potentia qua pater
+          <lb ed="#P" n="48"/>pater (sic)(rep) generare et qua pater esse pater Joannes circa istum articulus primo viden<lb ed="#P" break="no" n="49"/>dum 
           est (hyphen) Numquid actualiter generare in divinis sit vere agere
-          <lb ed="#P"/>de genere actionis (hyphen) deinde melius videbitur utrum potentia gene<lb ed="#P"/>rativa
+          <lb ed="#P" n="50"/>de genere actionis (hyphen) deinde melius videbitur utrum potentia gene<lb ed="#P" break="no" n="51"/>rativa
           ut sic sit vere activa et <unclear>elicitiva</unclear>
         </p>
         <p xml:id="Cnyt3a-d1e745-d1e384">
           <g ref="#pilcrow"/>Propter primum <unclear>concdum</unclear>
-          <lb ed="#P"/>sit prima conclusio hoc non est de ratuone actionis ut est <unclear>praesentum</unclear> distinguis
-          <lb ed="#P"/>tum ab aliis <unclear>plitis</unclear> quod sit productio de nichilo probatur <unclear>quiaas</unclear>
-          <lb ed="#P"/>nullum agens naturale vere ageret in producendo ita quod non com<lb ed="#P"/>peteret 
+          <lb ed="#P" n="52"/>sit prima conclusio hoc non est de ratuone actionis ut est <unclear>praesentum</unclear> distinguis
+          <lb ed="#P" n="53"/>tum ab aliis <unclear>plitis</unclear> quod sit productio de nichilo probatur <unclear>quiaas</unclear>
+          <lb ed="#P" n="54"/>nullum agens naturale vere ageret in producendo ita quod non com<lb ed="#P" break="no" n="55"/>peteret 
           <unclear>6i</unclear> vera actio de genere actionis consequentia patet <unclear>quicon</unclear> ullum
-          <lb ed="#P"/>agens naturale potest aliquid de nichilo producere
+          <lb ed="#P" n="56"/>agens naturale potest aliquid de nichilo producere
         </p>
         <p xml:id="Cnyt3a-d1e745-d1e420">
           <g ref="#pilcrow"/>2a conclusio non de ratione 
-          <lb ed="#P"/>actionis quod dis productio de aliqui tamquam de potenti<lb ed="#P"/>ali
+          <lb ed="#P" n="57"/>actionis quod dis productio de aliqui tamquam de potenti<lb ed="#P" break="no" n="58"/>ali
           subiecto probatur <unclear>qui</unclear>  alias deus producendo aliqui de <choice><orig>nichilo</orig><reg>nihilo</reg></choice>
-          <lb ed="#P"/>non vere ageret nec vere competeret sibi vera actio de genere acti<lb ed="#P"/>onis
+          <lb ed="#P" n="59"/>non vere ageret nec vere competeret sibi vera actio de genere acti<lb ed="#P" break="no" n="60"/>onis
           consequens filium et consequentia manifesta est
         </p>
         <p xml:id="Cnyt3a-d1e745-d1e443">
           <g ref="#pilcrow"/><unclear>Exempli</unclear> hominis <unclear>dualibus</unclear>
-          <lb ed="#P"/><unclear>conclusionibus</unclear> sequitur quod creatio et generatio quae competit entibus 
-          <lb ed="#P"/>naturalibus sunt species actionis atque <unclear>specialitate</unclear> actiones a
-          <lb ed="#P"/>quibus actio ipsa potentiali abstrahit <unclear>quidam</unclear> est <unclear>esse</unclear>
+          <lb ed="#P" n="61"/><unclear>conclusionibus</unclear> sequitur quod creatio et generatio quae competit entibus 
+          <lb ed="#P" n="62"/>naturalibus sunt species actionis atque <unclear>specialitate</unclear> actiones a
+          <lb ed="#P" n="63"/>quibus actio ipsa potentiali abstrahit <unclear>quidam</unclear> est <unclear>esse</unclear>
         </p>
         <p xml:id="Cnyt3a-d1e745-d1e471">
           <g ref="#pilcrow"/>3a conclusio 
-          <lb ed="#P"/>vera actio de genere actionis ex sua <unclear>ree</unclear> formali non
-          <lb ed="#P"/>exigit successionem in mensura durationis patet <unclear>qualis</unclear>
-          <lb ed="#P"/>deus potest habere verum agere de genere actionis <unclear>umco</unclear> instanti
-          <lb ed="#P"/>et pro <unclear>vm</unclear> cum solum instans <unclear>iter</unclear> et <unclear>tum</unclear>
+          <lb ed="#P" n="64"/>vera actio de genere actionis ex sua <unclear>ree</unclear> formali non
+          <lb ed="#P" n="65"/>exigit successionem in mensura durationis patet <unclear>qualis</unclear>
+          <lb ed="#P" n="66"/>deus potest habere verum agere de genere actionis <unclear>umco</unclear> instanti
+          <lb ed="#P" n="67"/>et pro <unclear>vm</unclear> cum solum instans <unclear>iter</unclear> et <unclear>tum</unclear>
         </p>
         <p xml:id="Cnyt3a-d1e745-d1e503">
-          <g ref="#pilcrow"/>4o  conclusio vera actio de ge<lb ed="#P"/>nere
+          <g ref="#pilcrow"/>4o  conclusio vera actio de ge<lb ed="#P" break="no" n="68"/>nere
           actionis de sua ratione formali non exigit non 
-          <lb ed="#P"/><unclear>intatem</unclear> productionis ut sit novum valet et temporale producere
-          <lb ed="#P"/>patet <unclear>qui</unclear> non repugnat actioni ut actio est et abstracta
-          <lb ed="#P"/><unclear>qu</unclear> deus potuisset ab aeterno produxisse pro <unclear>bn</unclear> agere
-          <lb ed="#P"/>de genere actionis <unclear>b</unclear> angelum <unclear>iter et cum</unclear>
+          <lb ed="#P" n="69"/><unclear>intatem</unclear> productionis ut sit novum valet et temporale producere
+          <lb ed="#P" n="70"/>patet <unclear>qui</unclear> non repugnat actioni ut actio est et abstracta
+          <lb ed="#P" n="71"/><unclear>qu</unclear> deus potuisset ab aeterno produxisse pro <unclear>bn</unclear> agere
+          <lb ed="#P" n="72"/>de genere actionis <unclear>b</unclear> angelum <unclear>iter et cum</unclear>
         </p>
         <p xml:id="Cnyt3a-d1e745-d1e535">
           <g ref="#pilcrow"/>5o conclusio vera actio 
-          <lb ed="#P"/>de genere actionis ex sua ratione formali non requirit <!--The text here has a round r after an i, which is kinda weird-->
-          <lb ed="#P"/>dependentiam in reproducta Ista debet patere ex prima
-          <lb ed="#P"/>et 2a conclusionibus omnis enim dependentia in reproducta quam <unclear>spec<lb ed="#P"/>tat</unclear>
+          <lb ed="#P" n="73"/>de genere actionis ex sua ratione formali non requirit <!--The text here has a round r after an i, which is kinda weird-->
+          <lb ed="#P" n="74"/>dependentiam in reproducta Ista debet patere ex prima
+          <lb ed="#P" n="75"/>et 2a conclusionibus omnis enim dependentia in reproducta quam <unclear>spec<lb ed="#P" break="no" n="76"/>tat</unclear>
           ad sui productionem consurgit vel ex eo quod de nichilo
-          <lb ed="#P"/>producitur vel ex eo <unclear>quidem</unclear> de aliquo potentiali subiecto abstra<lb ed="#P"/>hitur
+          <lb ed="#P" n="77"/>producitur vel ex eo <unclear>quidem</unclear> de aliquo potentiali subiecto abstra<lb ed="#P" break="no" n="78"/>hitur
           in quo solum potentialiter latitabat debet vera actio 
-          <lb ed="#P"/>de genere actionis nullum tale respicit aut requirit in 
-          <lb ed="#P"/>reproducta <unclear>iter et cum</unclear>
+          <lb ed="#P" n="79"/>de genere actionis nullum tale respicit aut requirit in 
+          <lb ed="#P" n="80"/>reproducta <unclear>iter et cum</unclear>
         </p>
         <p xml:id="Cnyt3a-d1e745-d1e569">
           <g ref="#pilcrow"/>6a conclusio vera actio de genere actionis 
-          <lb ed="#P"/>nichil indignum de sua ratione formali et abstracta repor<lb ed="#P"/>tat
+          <lb ed="#P" n="81"/>nichil indignum de sua ratione formali et abstracta repor<lb ed="#P" break="no" n="82"/>tat
           quo non possit vere competere divine productioni <unclear>adint</unclear>
-          <lb ed="#P"/>Ista debet deduci ex praemissis conclusionibus
+          <lb ed="#P" n="83"/>Ista debet deduci ex praemissis conclusionibus
         </p>
         <p xml:id="Cnyt3a-d1e745-d1e584">
           <g ref="#pilcrow"/>7a conclusio verum agere actionis
-          <lb ed="#P"/>de sua ratione formali et abstracta solum habet quod sit actus et cum 
-          <lb ed="#P"/>per quem aliquid accipiat esse ab aliquo Ista patet <unclear>qui</unclear> verum agere
-          <lb ed="#P"/>de sua ratione formali et abstracta non plus dicit <unclear>quae</unclear> actum 
-          <lb ed="#P"/>2m <unclear>productuu</unclear> ut <unclear>productium</unclear> est de <unclear>terminatum</unclear> per actum primum
+          <lb ed="#P" n="84"/>de sua ratione formali et abstracta solum habet quod sit actus et cum 
+          <lb ed="#P" n="85"/>per quem aliquid accipiat esse ab aliquo Ista patet <unclear>qui</unclear> verum agere
+          <lb ed="#P" n="86"/>de sua ratione formali et abstracta non plus dicit <unclear>quae</unclear> actum 
+          <lb ed="#P" n="87"/>2m <unclear>productuu</unclear> ut <unclear>productium</unclear> est de <unclear>terminatum</unclear> per actum primum
         </p>
         <p xml:id="Cnyt3a-d1e745-d1e613">
           <g ref="#pilcrow"/><unclear>Adutendum</unclear> autem circa hance conclusionem quod <unclear>quem ad modum</unclear> factior
-          <lb ed="#P"/>facere est quidam actus medius <unclear>int</unclear> illud quod facit et illud
-          <lb ed="#P"/>quod fit sicut patet primo et 6o <unclear><title>ethicorum</title></unclear> sic productio et producere debent 
-          <lb ed="#P"/>actum medium <unclear>nif</unclear> id quod producit et id quod producitur et
-          <lb ed="#P"/>hoc solum est de ratione eius Quaeritur autem reperiatur causa multipliciter
-          <lb ed="#P"/>conditionata in multis hoc <corr type="erasure"/> <!-- I think i formatted that correctly --> est de ratione 
-          <lb ed="#P"/>quid divina sed secundum quod applica ad diversam materiam <unclear>suam</unclear> naturam rei pro<lb ed="#P"/>ducentis 
+          <lb ed="#P" n="88"/>facere est quidam actus medius <unclear>int</unclear> illud quod facit et illud
+          <lb ed="#P" n="89"/>quod fit sicut patet primo et 6o <unclear><title>ethicorum</title></unclear> sic productio et producere debent 
+          <lb ed="#P" n="90"/>actum medium <unclear>nif</unclear> id quod producit et id quod producitur et
+          <lb ed="#P" n="91"/>hoc solum est de ratione eius Quaeritur autem reperiatur causa multipliciter
+          <lb ed="#P" n="92"/>conditionata in multis hoc <corr type="erasure"/> <!-- I think i formatted that correctly --> est de ratione 
+          <lb ed="#P" n="93"/>quid divina sed secundum quod applica ad diversam materiam <unclear>suam</unclear> naturam rei pro<lb ed="#P" break="no" n="94"/>ducentis 
           et rei producte sic etiam de actione et agere
         </p>
         <p xml:id="Cnyt3a-d1e745-d1e656">
           <g ref="#pilcrow"/>de sua enim ratione formali et abstracta non dicunt nisi 
-          <lb ed="#P"/>illum actum medium inter rem productam et rem producentem 
-          <lb ed="#P"/>Quaeritur autem reperiatur actio vel agere tam multipliciter condicio 
-          <lb ed="#P"/>natum in diversis agentibus hoc non est de sua ratione abstracta
-          <lb ed="#P"/><unclear>liceret</unclear> secundum esse quod habet in diversis naturis entium producentium et 
-          <lb ed="#P"/>productoris
+          <lb ed="#P" n="95"/>illum actum medium inter rem productam et rem producentem 
+          <lb ed="#P" n="96"/>Quaeritur autem reperiatur actio vel agere tam multipliciter condicio 
+          <lb ed="#P" n="97"/>natum in diversis agentibus hoc non est de sua ratione abstracta
+          <lb ed="#P" n="98"/><unclear>liceret</unclear> secundum esse quod habet in diversis naturis entium producentium et 
+          <lb ed="#P" n="99"/>productoris
         </p>
         <p xml:id="Cnyt3a-d1e745-d1e674">
           <g ref="#pilcrow"/>8a conclusio generatio verbi quae est in divinis est vera actio
-          <lb ed="#P"/>de genere actionis et generare verbum in divinis est bonum agere de 
-          <lb ed="#P"/>genere actionis Ista conclusio potest patere ex praemissis nichil enim
-          <lb ed="#P"/>potest impedire quin tale generare sit vere agere et talis generatio 
-          <lb ed="#P"/>sic vera actio Item probatur conclusio <unclear>principalitas</unclear>  est relatio de 2o modo
-          <lb ed="#P"/>relationis ergo <unclear>fini</unclear> datur in vera actione assumptum patet de
-          <lb ed="#P"/>se et consequentia patet quondam 2us modus <unclear>relationoris</unclear> est secundum actionem et
-          <lb ed="#P"/>passionem ut habetur hoc mediante Quemlibet enim relatio fundamentum 
-          <lb ed="#P"/>habet in alio praedicamento <name xml:id="Cnyt3a-d1e745-Nd1e705" ref="#JohannesBrakel">Johannes</name> secundum aliud et aliud <unclear>parentum</unclear> consurgit
-          <lb ed="#P"/>alia et alia relatio aequalitas enim fundatur in quantitate non potest esse aequa<lb ed="#P"/>litas
-          aut in aequalitas simili modo conformiter fundatur n qua<lb ed="#P"/>litate
+          <lb ed="#P" n="100"/>de genere actionis et generare verbum in divinis est bonum agere de 
+          <lb ed="#P" n="101"/>genere actionis Ista conclusio potest patere ex praemissis nichil enim
+          <lb ed="#P" n="102"/>potest impedire quin tale generare sit vere agere et talis generatio 
+          <lb ed="#P" n="103"/>sic vera actio Item probatur conclusio <unclear>principalitas</unclear>  est relatio de 2o modo
+          <lb ed="#P" n="104"/>relationis ergo <unclear>fini</unclear> datur in vera actione assumptum patet de
+          <lb ed="#P" n="105"/>se et consequentia patet quondam 2us modus <unclear>relationoris</unclear> est secundum actionem et
+          <lb ed="#P" n="106"/>passionem ut habetur hoc mediante Quemlibet enim relatio fundamentum 
+          <lb ed="#P" n="107"/>habet in alio praedicamento <name xml:id="Cnyt3a-d1e745-Nd1e705" ref="#JohannesBrakel">Johannes</name> secundum aliud et aliud <unclear>parentum</unclear> consurgit
+          <lb ed="#P" n="108"/>alia et alia relatio aequalitas enim fundatur in quantitate non potest esse aequa<lb ed="#P" break="no" n="109"/>litas
+          aut in aequalitas simili modo conformiter fundatur n qua<lb ed="#P" break="no" n="110"/>litate
           et ex ipsa consurgit <name xml:id="Cnyt3a-d1e745-Nd1e718" ref="#JohannesBrakel">Johannes</name> ipsa amota in potentiale est <unclear>positione</unclear> 
-          <lb ed="#P"/>similitudinem Sicut principalitas et damnatio et tales relationes fun<lb ed="#P"/>dantur
+          <lb ed="#P" n="111"/>similitudinem Sicut principalitas et damnatio et tales relationes fun<lb ed="#P" break="no" n="112"/>dantur
           in actione et ex ipsa consurgunt ergo amota actione in potentiale
-          <lb ed="#P"/>est tales relationes consurgere aut igitur in divinis non est vera princi<lb ed="#P"/>palitas 
-          aut ibi <unclear>erit</unclear> vera actio et cetera generatio ex qua consurgit pr<lb ed="#P"/>incipalitas
+          <lb ed="#P" n="113"/>est tales relationes consurgere aut igitur in divinis non est vera princi<lb ed="#P" break="no" n="114"/>palitas 
+          aut ibi <unclear>erit</unclear> vera actio et cetera generatio ex qua consurgit pr<lb ed="#P" break="no" n="115"/>incipalitas
           in divinis est vera actio de genere actionis
         </p>
         <p xml:id="Cnyt3a-d1e745-d1e739">
           <g ref="#pilcrow"/><unclear>Ex primis</unclear> 
-          <lb ed="#P"/>conclusionibus melius potest videri quid dicendum sit de potentia generativa utrum valet 
-          <lb ed="#P"/>sit potentia vere activa unde sit 9a conclusio hic
+          <lb ed="#P" n="116"/>conclusionibus melius potest videri quid dicendum sit de potentia generativa utrum valet 
+          <lb ed="#P" n="117"/>sit potentia vere activa unde sit 9a conclusio hic
         </p>
         <p xml:id="Cnyt3a-d1e745-d1e750">
           <g ref="#pilcrow"/>Cuilibet actioni
           <pb ed="#P" n="103-r"/>
-          <lb ed="#P"/>seu cuilibet actuali agere <unclear>eorundet</unclear> in ipso agente aliqua
-          <lb ed="#P"/>virtus activa ex qua <unclear>emanat</unclear> <unclear>ipsum</unclear> actuale agere
-          <lb ed="#P"/>probatur 9o modo quilibet actus secundus emanat ab actu primo sed
+          <lb ed="#P" n="1"/>seu cuilibet actuali agere <unclear>eorundet</unclear> in ipso agente aliqua
+          <lb ed="#P" n="2"/>virtus activa ex qua <unclear>emanat</unclear> <unclear>ipsum</unclear> actuale agere
+          <lb ed="#P" n="3"/>probatur 9o modo quilibet actus secundus emanat ab actu primo sed
           quilibet actio seu actuale agere est actus secundus ipsius agentis 
-          <lb ed="#P"/><unclear>inter</unclear> emanat ab actu prime et per consequens <unclear>quilibet</unclear> tali <unclear>eorundet</unclear>
-          <lb ed="#P"/>in ipso agente aliqua virtus activa tamquam actus primus
+          <lb ed="#P" n="4"/><unclear>inter</unclear> emanat ab actu prime et per consequens <unclear>quilibet</unclear> tali <unclear>eorundet</unclear>
+          <lb ed="#P" n="5"/>in ipso agente aliqua virtus activa tamquam actus primus
         </p>
         <p xml:id="Cnyt3a-d1e745-d1e787">
-          <g ref="#pilcrow"/>10a conclusio actuali generationi verbi in divina natura tamquam ar<lb ed="#P"/>ticuli 
+          <g ref="#pilcrow"/>10a conclusio actuali generationi verbi in divina natura tamquam ar<lb ed="#P" break="no" n="6"/>ticuli 
           20 <unclear>corationem</unclear> in patre aliqua virtus generativa tamquam 
-          <lb ed="#P"/>actus primus a quo actualiter generatio emanat Ista conclusio 
-          <lb ed="#P"/>patet ex praecepti
+          <lb ed="#P" n="7"/>actus primus a quo actualiter generatio emanat Ista conclusio 
+          <lb ed="#P" n="8"/>patet ex praecepti
         </p>
         <p xml:id="Cnyt3a-d1e745-d1e801">
           <g ref="#pilcrow"/>11a conclusio Ipsa virtus generativa in patre cui
-          <lb ed="#P"/><unclear>eorundet</unclear> actualis generatio tamquam actus <unclear>et cum</unclear> est in patre 
-          <lb ed="#P"/>vera potentia generativa patet ergo <unclear>quondam</unclear> virtus activa in quolibet a<lb ed="#P"/>gente
+          <lb ed="#P" n="9"/><unclear>eorundet</unclear> actualis generatio tamquam actus <unclear>et cum</unclear> est in patre 
+          <lb ed="#P" n="10"/>vera potentia generativa patet ergo <unclear>quondam</unclear> virtus activa in quolibet a<lb ed="#P" break="no" n="11"/>gente
           est sua potentia vere activa et e conclusio unde virtus activa
-          <lb ed="#P"/>et potentia activa in quocumque idem sunt
+          <lb ed="#P" n="12"/>et potentia activa in quocumque idem sunt
         </p>
         <p xml:id="Cnyt3a-d1e745-d1e823">
-          <g ref="#pilcrow"/>12a conclusio potentia genera<lb ed="#P"/>tiva
-          in patre est potentia vere activa et elicitiva et <unclear>nec</unclear> sola connex<lb ed="#P"/>io
+          <g ref="#pilcrow"/>12a conclusio potentia genera<lb ed="#P" break="no" n="13"/>tiva
+          in patre est potentia vere activa et elicitiva et <unclear>nec</unclear> sola connex<lb ed="#P" break="no" n="14"/>io
           aut non <unclear>repugnantia</unclear> temporum sicut quidam <unclear>senserunt</unclear> et patet
-          <lb ed="#P"/>conclusio ex iam praemissis <g ref="#slash"/> Istis probatur <unclear>conclusio</unclear> de actuale generare 
-          <lb ed="#P"/>est actus et primis ergo in patre est aliiqua potentia non potest esse nisi ge<lb ed="#P"/>nerativa
+          <lb ed="#P" n="15"/>conclusio ex iam praemissis <g ref="#slash"/> Istis probatur <unclear>conclusio</unclear> de actuale generare 
+          <lb ed="#P" n="16"/>est actus et primis ergo in patre est aliiqua potentia non potest esse nisi ge<lb ed="#P" break="no" n="17"/>nerativa
           ergo potentia generativa in patre est potentia vere activa 
-          <lb ed="#P"/>et per consequens elicitiva
+          <lb ed="#P" n="18"/>et per consequens elicitiva
         </p>
         <p xml:id="Cnyt3a-d1e745-d1e856">
           <g ref="#pilcrow"/>Ad illud autem quid dicunt adversarii 
-          <lb ed="#P"/>quod <unclear>eadem</unclear> est potentia qua potest generare et qua patet potest esse <unclear>past</unclear>
-          <lb ed="#P"/>ergo si potentia qua potest generare est potentia vere activa et produc<lb ed="#P"/>tiva
+          <lb ed="#P" n="19"/>quod <unclear>eadem</unclear> est potentia qua potest generare et qua patet potest esse <unclear>past</unclear>
+          <lb ed="#P" n="20"/>ergo si potentia qua potest generare est potentia vere activa et produc<lb ed="#P" break="no" n="21"/>tiva
           et non sola connexio et non repugnantia temporum ergo patet
-          <lb ed="#P"/>producetur in esse <unclear>primo</unclear> dicendum quod non <unclear>sedatur</unclear> Non enim sequitur 
-          <lb ed="#P"/><unclear>Eadem</unclear> est potentia qua deus potest creare et qua potest esse <unclear>Eans</unclear> ergo
-          <lb ed="#P"/>si potentia qua deus potest creare est potentia activa deus potest 
-          <lb ed="#P"/>producere se in esse creantis sic in proposito et in rebus creatis <unclear>eadem</unclear> <unclear>eadem</unclear>
-          <lb ed="#P"/>certe est potentia qua hoc vel <unclear>aequs</unclear> potest generare et qua potest esse
-          <lb ed="#P"/><unclear>pati</unclear> et certum est quod potentia qua potest generare est potentia vere activa et 
-          <lb ed="#P"/>productiva et tamen non sequitur quod possitse ipsum producere in esse pater
-          <lb ed="#P"/>non Esse nam quam praesentem consurgit ex <unclear>nctu</unclear> generandi sed non
-          <lb ed="#P"/>elicitur a generante Actus autem generandi est vere actus elicitus 
-          <lb ed="#P"/>una ergo et <unclear>eadem</unclear> potentia est quae <unclear>eorundet</unclear> uterque non tamen eadem modo <unclear>10</unclear> non
-          <lb ed="#P"/><unclear>quid</unclear> ad <unclear>medum</unclear> generare est actus elicitus per illam potentiam 
-          <lb ed="#P"/>ita et esse praesentem tam in dominus quam in rebus creatis Similiter
-          <lb ed="#P"/><unclear>eadem</unclear> est potentia qua ignis potest calefacere et qua potest sibi as<lb ed="#P"/>similare 
+          <lb ed="#P" n="22"/>producetur in esse <unclear>primo</unclear> dicendum quod non <unclear>sedatur</unclear> Non enim sequitur 
+          <lb ed="#P" n="23"/><unclear>Eadem</unclear> est potentia qua deus potest creare et qua potest esse <unclear>Eans</unclear> ergo
+          <lb ed="#P" n="24"/>si potentia qua deus potest creare est potentia activa deus potest 
+          <lb ed="#P" n="25"/>producere se in esse creantis sic in proposito et in rebus creatis <unclear>eadem</unclear> <unclear>eadem</unclear>
+          <lb ed="#P" n="26"/>certe est potentia qua hoc vel <unclear>aequs</unclear> potest generare et qua potest esse
+          <lb ed="#P" n="27"/><unclear>pati</unclear> et certum est quod potentia qua potest generare est potentia vere activa et 
+          <lb ed="#P" n="28"/>productiva et tamen non sequitur quod possitse ipsum producere in esse pater
+          <lb ed="#P" n="29"/>non Esse nam quam praesentem consurgit ex <unclear>nctu</unclear> generandi sed non
+          <lb ed="#P" n="30"/>elicitur a generante Actus autem generandi est vere actus elicitus 
+          <lb ed="#P" n="31"/>una ergo et <unclear>eadem</unclear> potentia est quae <unclear>eorundet</unclear> uterque non tamen eadem modo <unclear>10</unclear> non
+          <lb ed="#P" n="32"/><unclear>quid</unclear> ad <unclear>medum</unclear> generare est actus elicitus per illam potentiam 
+          <lb ed="#P" n="33"/>ita et esse praesentem tam in dominus quam in rebus creatis Similiter
+          <lb ed="#P" n="34"/><unclear>eadem</unclear> est potentia qua ignis potest calefacere et qua potest sibi as<lb ed="#P" break="no" n="35"/>similare 
           passum  non tamen sequitur quod si calefacere est actus elicitus
-          <lb ed="#P"/>ergo et assimilare Relationes enim consurgunt et fundantur
-          <lb ed="#P"/>in ipsis actionibus tamquam in actibus elicitis et productis non
-          <lb ed="#P"/>tamen <unclear>elicitur</unclear> aut producuntur ipse sed naturali concomitantia sub
-          <lb ed="#P"/>se quaeruntur <name xml:id="Cnyt3a-d1e745-Nd1e958" ref="#JohannesBrakel">Johannes</name> <unclear>eadem</unclear> potentia <unclear>Eorndet</unclear> utrisque
+          <lb ed="#P" n="36"/>ergo et assimilare Relationes enim consurgunt et fundantur
+          <lb ed="#P" n="37"/>in ipsis actionibus tamquam in actibus elicitis et productis non
+          <lb ed="#P" n="38"/>tamen <unclear>elicitur</unclear> aut producuntur ipse sed naturali concomitantia sub
+          <lb ed="#P" n="39"/>se quaeruntur <name xml:id="Cnyt3a-d1e745-Nd1e958" ref="#JohannesBrakel">Johannes</name> <unclear>eadem</unclear> potentia <unclear>Eorndet</unclear> utrisque
         </p>
+        </div>
+        <div xml:id="Cnyt3a-d1e745-Dd1e848">
+          <head xml:id="Cnyt3a-d1e745-Hd1e850">Articulus 2</head>
         <p xml:id="Cnyt3a-d1e745-d1e969">
           <g ref="#pilcrow"/>Secundus articulus
-          <lb ed="#P"/>In quaestione decisus erat <unclear>aste</unclear> utrum potentia 
-          <lb ed="#P"/>generativa in patre sit aliquid essentiale pertinens ad
-          <lb ed="#P"/>naturam vel potius <unclear>notionale</unclear> pertinens ad 
-          <lb ed="#P"/>personam
+          <lb ed="#P" n="40"/>In quaestione decisus erat <unclear>aste</unclear> utrum potentia 
+          <lb ed="#P" n="41"/>generativa in patre sit aliquid essentiale pertinens ad
+          <lb ed="#P" n="42"/>naturam vel potius <unclear>notionale</unclear> pertinens ad 
+          <lb ed="#P" n="43"/>personam
         </p>
         <p xml:id="Cnyt3a-d1e745-d1e989">
           <g ref="#pilcrow"/><unclear>Qra</unclear> istum articulum est advertendum quod potentia activa
-          <lb ed="#P"/>in agenti <unclear>*smudge*tans</unclear> est quaedam virtus in eis quae est <unclear>philosophum</unclear> quo
-          <lb ed="#P"/>ipsius actionis est in eis actus primus a quo emanat 
-          <lb ed="#P"/>ipsum actuale agere tamquam actus et cum Sic et in domino <unclear>consid<lb ed="#P"/>randum</unclear>
+          <lb ed="#P" n="44"/>in agenti <unclear>*smudge*tans</unclear> est quaedam virtus in eis quae est <unclear>philosophum</unclear> quo
+          <lb ed="#P" n="45"/>ipsius actionis est in eis actus primus a quo emanat 
+          <lb ed="#P" n="46"/>ipsum actuale agere tamquam actus et cum Sic et in domino <unclear>consid<lb ed="#P" break="no" n="47"/>randum</unclear>
           est enim autem potentia et virtus est <unclear>diversis</unclear> in agentibus naturalibus
-          <lb ed="#P"/><unclear>una</unclear> est principales et remota Alia <unclear>virtus</unclear> <unclear>Iustinent</unclear> aliqua et
-          <lb ed="#P"/>propter materia virtus in <corr type="erasure"/> igne potentia activa principali et remota est sua
-          <lb ed="#P"/>forma substantialis per quam substantialiter est ignis et <unclear>actius</unclear>
+          <lb ed="#P" n="48"/><unclear>una</unclear> est principales et remota Alia <unclear>virtus</unclear> <unclear>Iustinent</unclear> aliqua et
+          <lb ed="#P" n="49"/>propter materia virtus in <corr type="erasure"/> igne potentia activa principali et remota est sua
+          <lb ed="#P" n="50"/>forma substantialis per quam substantialiter est ignis et <unclear>actius</unclear>
         </p>
         <p xml:id="Cnyt3a-d1e745-d1e1038">
           <g ref="#pilcrow"/>Potentia <unclear>nullo</unclear>
-          <lb ed="#P"/>instrumentalis est forma accidentalis in eo et hoc est propinqua
-          <lb ed="#P"/>potentia per quam etiam est activus ut <name xml:id="Cnyt3a-d1e745-Nd1e1049">caliditas</name> In hac autem potentia 
-          <lb ed="#P"/>Instrumentali et propinqua sunt gradus sicut apparet maxime
-          <lb ed="#P"/>in homine tam quo ad actiones corporales quam quo ad actiones 
-          <lb ed="#P"/>intellectuales nam potentia activa et motiva ad actiones corporales
-          <lb ed="#P"/>in homine <unclear>philosophis</unclear> et remota est ipsa anima quae est primum principalium ac<cb ed="#P" n="b"/><!--103rb--><lb ed="#P"/><unclear>tivum</unclear> 
+          <lb ed="#P" n="51"/>instrumentalis est forma accidentalis in eo et hoc est propinqua
+          <lb ed="#P" n="52"/>potentia per quam etiam est activus ut <name xml:id="Cnyt3a-d1e745-Nd1e1049">caliditas</name> In hac autem potentia 
+          <lb ed="#P" n="53"/>Instrumentali et propinqua sunt gradus sicut apparet maxime
+          <lb ed="#P" n="54"/>in homine tam quo ad actiones corporales quam quo ad actiones 
+          <lb ed="#P" n="55"/>intellectuales nam potentia activa et motiva ad actiones corporales
+          <lb ed="#P" n="56"/>in homine <unclear>philosophis</unclear> et remota est ipsa anima quae est primum principalium ac<cb ed="#P" n="b"/><!--103rb--><lb ed="#P" n="57"/><unclear>tivum</unclear> 
           et motivum in homine et est primus motor in suo corpore
-          <lb ed="#P"/>deinde <unclear>st</unclear> instrumenta interiora <unclear>pift</unclear> exteriora ad actiones
-          <lb ed="#P"/>et motus <unclear>nift</unclear> quae <unclear>st</unclear> gradus et ordo et ista <unclear>st</unclear> potentiae instrumentales
-          <lb ed="#P"/>quo ad opera intellectualia Simile est <unclear>reparere</unclear> nam potentia principalis 
-          <lb ed="#P"/>et remota qua potest homo intelligere et sapere est ipsa anima 
-          <lb ed="#P"/>intellectiva deinde sunt instrumenta eius ut intellectus
-          <lb ed="#P"/>qui <unclear>dicetur</unclear> particula animae <ref xml:id="Cnyt3a-d1e745-Rd1e1106">6o <title ref="#Ethics">ethicorum</title></ref> Et est pars potentialis 3o de
-          <lb ed="#P"/>anima <g ref="#slash"/> de parte autem animae inquit <unclear>articulorum</unclear> qua anima sapit et intel<lb ed="#P"/>ligit
+          <lb ed="#P" n="58"/>deinde <unclear>st</unclear> instrumenta interiora <unclear>pift</unclear> exteriora ad actiones
+          <lb ed="#P" n="59"/>et motus <unclear>nift</unclear> quae <unclear>st</unclear> gradus et ordo et ista <unclear>st</unclear> potentiae instrumentales
+          <lb ed="#P" n="60"/>quo ad opera intellectualia Simile est <unclear>reparere</unclear> nam potentia principalis 
+          <lb ed="#P" n="61"/>et remota qua potest homo intelligere et sapere est ipsa anima 
+          <lb ed="#P" n="62"/>intellectiva deinde sunt instrumenta eius ut intellectus
+          <lb ed="#P" n="63"/>qui <unclear>dicetur</unclear> particula animae <ref xml:id="Cnyt3a-d1e745-Rd1e1106">6o <title ref="#Ethics">ethicorum</title></ref> Et est pars potentialis 3o de
+          <lb ed="#P" n="64"/>anima <g ref="#slash"/> de parte autem animae inquit <unclear>articulorum</unclear> qua anima sapit et intel<lb ed="#P" break="no" n="65"/>ligit
           et communi usu dicitur potentia intellectiva et sic <unclear>cefe</unclear> vires animae dicuntur
-          <lb ed="#P"/>potentiae animae ut potentia <unclear>nutritiva</unclear> et potentia vegetativa et potentia sensitivae
-          <lb ed="#P"/>et interiores et exteriores <name xml:id="Cnyt3a-d1e745-Nd1e1132" ref="#JohannesBrakel">Johannes</name> <unclear>inclxis</unclear> potentias est magnus
-          <lb ed="#P"/>ordo sic ergo virtus quaedam in anima dicitur in ea potentia
-          <lb ed="#P"/>intellectiva et est ei data ad actum intelligendi huic autem
-          <lb ed="#P"/>a proponuntur quaedam rursus instrumenta et abilitates quibus
-          <lb ed="#P"/>melius perficiat opus suum quales <unclear>st</unclear> habitus intellectuales 
-          <lb ed="#P"/>et species <unclear>intelligiles</unclear> et haec omnis dicuntur etiam potentiae ut patet <ref xml:id="Cnyt3a-d1e745-Rd1e1155">6o <title ref="#Ethics">ethicorum</title></ref>
-          <lb ed="#P"/>quondam sunt quaedam adiuvamenta reddentia ipsam animam et virtu<lb ed="#P"/>tum 
+          <lb ed="#P" n="66"/>potentiae animae ut potentia <unclear>nutritiva</unclear> et potentia vegetativa et potentia sensitivae
+          <lb ed="#P" n="67"/>et interiores et exteriores <name xml:id="Cnyt3a-d1e745-Nd1e1132" ref="#JohannesBrakel">Johannes</name> <unclear>inclxis</unclear> potentias est magnus
+          <lb ed="#P" n="68"/>ordo sic ergo virtus quaedam in anima dicitur in ea potentia
+          <lb ed="#P" n="69"/>intellectiva et est ei data ad actum intelligendi huic autem
+          <lb ed="#P" n="70"/>a proponuntur quaedam rursus instrumenta et abilitates quibus
+          <lb ed="#P" n="71"/>melius perficiat opus suum quales <unclear>st</unclear> habitus intellectuales 
+          <lb ed="#P" n="72"/>et species <unclear>intelligiles</unclear> et haec omnis dicuntur etiam potentiae ut patet <ref xml:id="Cnyt3a-d1e745-Rd1e1155">6o <title ref="#Ethics">ethicorum</title></ref>
+          <lb ed="#P" n="73"/>quondam sunt quaedam adiuvamenta reddentia ipsam animam et virtu<lb ed="#P" break="no" n="74"/>tum 
           intellectivam <unclear>potentiae</unclear> ad opus suum et <unclear>ministri</unclear> hoc omnia 
-          <lb ed="#P"/>utique sunt gradus et ordo Praesupponita igitur distinctione 
-          <lb ed="#P"/>formali <unclear>ministri</unclear> essentialia divina sicut multi <choice><orig>ymaginantur</orig><reg>imaginantur</reg></choice> 
-          <lb ed="#P"/>et sicut in superioribus praesupponita est <unclear>Conformitis</unclear> ad
-          <lb ed="#P"/>ea quae nobis in sunt etiam in ipso domino consideranda <unclear>st</unclear> licet dis<lb ed="#P"/>tinguantur
+          <lb ed="#P" n="75"/>utique sunt gradus et ordo Praesupponita igitur distinctione 
+          <lb ed="#P" n="76"/>formali <unclear>ministri</unclear> essentialia divina sicut multi <choice><orig>ymaginantur</orig><reg>imaginantur</reg></choice> 
+          <lb ed="#P" n="77"/>et sicut in superioribus praesupponita est <unclear>Conformitis</unclear> ad
+          <lb ed="#P" n="78"/>ea quae nobis in sunt etiam in ipso domino consideranda <unclear>st</unclear> licet dis<lb ed="#P" break="no" n="79"/>tinguantur
           <unclear>sensum</unclear>rationem et non <unclear>sensum</unclear> rem Et <unclear>quin</unclear> in patre generante 
-          <lb ed="#P"/>in divinis quaedam <unclear>st</unclear> essentialia pertinentia <corr type="strikethrough">d</corr> ad naturam divinitatis
-          <lb ed="#P"/>quaedam <unclear>verbo</unclear> <unclear>st</unclear> notionalia pertinentia ad rationem personalitatis
-          <lb ed="#P"/>et <unclear>st</unclear> distinctiva ab <unclear>aliquis</unclear> personis 6 <name xml:id="Cnyt3a-d1e745-Nd1e1232" ref="#JohannesBrakel">Joannes</name> videndum est de virtu<lb ed="#P"/>te
+          <lb ed="#P" n="80"/>in divinis quaedam <unclear>st</unclear> essentialia pertinentia <corr type="strikethrough">d</corr> ad naturam divinitatis
+          <lb ed="#P" n="81"/>quaedam <unclear>verbo</unclear> <unclear>st</unclear> notionalia pertinentia ad rationem personalitatis
+          <lb ed="#P" n="82"/>et <unclear>st</unclear> distinctiva ab <unclear>aliquis</unclear> personis 6 <name xml:id="Cnyt3a-d1e745-Nd1e1232" ref="#JohannesBrakel">Joannes</name> videndum est de virtu<lb ed="#P" break="no" n="83"/>te
           generativa in patre utrum sit aliquam essentiale et ab solutum 
-          <lb ed="#P"/>vel potius personale et relativum
+          <lb ed="#P" n="84"/>vel potius personale et relativum
         </p>
         <p xml:id="Cnyt3a-d1e745-d1e1241">
           <g ref="#pilcrow"/>Pono <unclear>l</unclear> circa istum
-          <lb ed="#P"/>articulum aliquas conclusiones quartis prima sit hoc
+          <lb ed="#P" n="85"/>articulum aliquas conclusiones quartis prima sit hoc
         </p>
         <!-- breka ?-->
         <p xml:id="Cnyt3a-d1e745-d1e1253">
           <g ref="#pilcrow"/>virtus 
-          <lb ed="#P"/>activa in agentibus creatis est aliquid pertinens <unclear>maiorem</unclear> et 
-          <lb ed="#P"/>non aliquid pertinens ad individuum aut suppositum in eis
-          <lb ed="#P"/>probatur ergo nam actiones talium actium <unclear>distinguuntur</unclear> in <unclear>Christum</unclear> dis<lb ed="#P"/>tinctionem
+          <lb ed="#P" n="86"/>activa in agentibus creatis est aliquid pertinens <unclear>maiorem</unclear> et 
+          <lb ed="#P" n="87"/>non aliquid pertinens ad individuum aut suppositum in eis
+          <lb ed="#P" n="88"/>probatur ergo nam actiones talium actium <unclear>distinguuntur</unclear> in <unclear>Christum</unclear> dis<lb ed="#P" break="no" n="89"/>tinctionem
           naturarum in eis et non in <unclear>christum</unclear> distinctionem individuorum 
-          <lb ed="#P"/>ergo virtutes active a quibus tales actiones emanant
-          <lb ed="#P"/><unclear>distinguuntur</unclear> penes distinctionem naturarum et non individuorum
-          <lb ed="#P"/>et pertinens pertinet ad naturas et ad rationes essentiales in eis et non
-          <lb ed="#P"/>ad rationes individuales primum assumtum patet in <unclear>ecclesiis</unclear> essentialem
-          <lb ed="#P"/>ordinatis ad eundem <unclear>effectum</unclear> <unclear>Si non</unclear> sol et aequus <unclear>concurrant</unclear> 
-          <lb ed="#P"/>ad generationem <unclear>minor</unclear> aequi actiones istorum agentium dis<lb ed="#P"/>tinguuntur
+          <lb ed="#P" n="90"/>ergo virtutes active a quibus tales actiones emanant
+          <lb ed="#P" n="91"/><unclear>distinguuntur</unclear> penes distinctionem naturarum et non individuorum
+          <lb ed="#P" n="92"/>et pertinens pertinet ad naturas et ad rationes essentiales in eis et non
+          <lb ed="#P" n="93"/>ad rationes individuales primum assumtum patet in <unclear>ecclesiis</unclear> essentialem
+          <lb ed="#P" n="94"/>ordinatis ad eundem <unclear>effectum</unclear> <unclear>Si non</unclear> sol et aequus <unclear>concurrant</unclear> 
+          <lb ed="#P" n="95"/>ad generationem <unclear>minor</unclear> aequi actiones istorum agentium dis<lb ed="#P" break="no" n="96"/>tinguuntur
           penes distinctionem naturae <unclear>Solis</unclear> ad naturam aequi et
-          <lb ed="#P"/>non penes differentiam individui ad individuum in esse
-          <lb ed="#P"/>individuali et sic si ponatur quocumque plures tales
-          <lb ed="#P"/>causae et generaliter in omnibus agentibus <unclear>specie</unclear> differentibus hoc
-          <lb ed="#P"/><unclear>idem</unclear> <unclear>erit</unclear> videtur
+          <lb ed="#P" n="97"/>non penes differentiam individui ad individuum in esse
+          <lb ed="#P" n="98"/>individuali et sic si ponatur quocumque plures tales
+          <lb ed="#P" n="99"/>causae et generaliter in omnibus agentibus <unclear>specie</unclear> differentibus hoc
+          <lb ed="#P" n="100"/><unclear>idem</unclear> <unclear>erit</unclear> videtur
         </p>
+        <p xml:id="Cnyt3a-d1e745-d1e1160">
+          <pc type="pilcrow"/> Praeterea sic si conclusio non sit vera sequitur quod inter causas 
+          <lb ed="#P" n="101"/>creatas una non possit esse universalior in causando quam 
+          <lb ed="#P" n="102"/>reliqua consequentia est falsum Scimus <unclear>ii</unclear> quod sol est universalior 
+          <lb ed="#P" n="103"/>causa in causando quam equus aut quodcumque aliud generans et 
+          <lb ed="#P" n="104"/>agens in istis inferioribus Sol <unclear>ii</unclear> pro obiecto suae potentiae ac<lb ed="#P" break="no" n="105"/>tive 
+          respicit <del rend="strikethrough">suam</del> totam machinam generabilium et corrup<lb ed="#P" break="no" n="106"/>tibilium 
+          vel <unclear>quus</unclear> autem aut quidcumque aliud agens in istis 
+          <lb ed="#P" n="107"/>inferioribus respicit determinatam naturam ultra quam non se exten<lb ed="#P" break="no" n="108"/>dit 
+          virtus eius et consequentia prima patet quoniam universalitas 
+          <lb ed="#P" n="109"/>ista et generalitas mayoris causalitatis necessario sumitur 
+          <lb ed="#P" n="110"/>ex natura et non ex individuo Ex natura namque sua 
+          <lb ed="#P" n="111"/>quaelibet causa continet virtualiter omnes effectus ab ea producibiles 
+          <lb ed="#P" n="112"/>et non ex ratione individuali igitur virtus activa in tali 
+          <lb ed="#P" n="113"/>causa <unclear>sumitur</unclear> penes naturam et non penes individuae naturae
+        </p>
+        <p xml:id="Cnyt3a-d1e745-d1e1205">
+          <pc type="pilcrow"/> 2a conclusio 
+          <lb ed="#P" n="114"/>virtus generativa in patre generante in divinis non potest esse ipsa 
+          <lb ed="#P" n="115"/>relatio paternitatis qua pater constituitur in esse patris probatur conclusio sic 
+          <lb ed="#P" n="116"/>virtus generativa in quolibet <unclear>generante</unclear> ordine naturae praece<lb ed="#P" break="no" n="117"/>dit 
+          actum generationois sed paternitas per quam prima persona divina 
+          <lb ed="#P" n="118"/>constituitur in esse patris non praecedit actum generationis sed con<lb ed="#P" break="no" n="119"/>sequitur 
+          ipsum igitur conclusio vera primum assumptum potest pater ex dictis 
+          <lb ed="#P" n="120"/>in praecedenti quaestione sed 2m assumptum patet primo sic prima persona 
+          <lb ed="#P" n="121"/>divina non ex eo generat quia est pater sed ex eo est pater 
+          <lb ed="#P" n="122"/>quia generat ergo generare praecedit esse patrem et non econverso
+        </p>
+        <p xml:id="Cnyt3a-d1e745-d1e1231">
+          <pc type="pilcrow"/>2o sic 
+          <pb ed="#S" n="103-v"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#P" n="1"/>paternitas est relatio consurgens ex actu generationis et in ipso 
+          <lb ed="#P" n="2"/>fundatur ergo actus generandi praecedit relationem paternitatis antecedens 
+          <lb ed="#P" n="3"/>patet quoniam paternitas est relatio consurgens ex actione et in ipsa 
+          <lb ed="#P" n="4"/>fundatur sicut aequalitas in quantitate et similitudo in qualitate et consequentia 
+          <lb ed="#P" n="5"/>patet quoniam fundamentum naturali ordine praecedit illud quod in eo fun<lb ed="#P" break="no" n="6"/>datur 
+          quia enim aequalitas fundatur in quantitate et similitudo in qualitate 
+          <lb ed="#P" n="7"/>Ideo necesse est quod quantitas naturali ordine sit prior aequalitate et quali<lb ed="#P" break="no" n="8"/>tas 
+          sit prior similitudine sicut generattio est naturaliter prior quacumque relatione 
+          <lb ed="#P" n="9"/>ex ipsa consurgente
+        </p>
+        <p xml:id="Cnyt3a-d1e745-d1e1260">
+          <pc type="pilcrow"/> 3a conclusio virtus generativa in patre necessario 
+          <lb ed="#P" n="10"/>est aliquod absolutum in eo ista conclusio patet ex praecedenti nam vel est aliquod 
+          <lb ed="#P" n="11"/>absolutum vel aliqua relatio distinguens patrem a filio
+        </p>
+        <p xml:id="Cnyt3a-d1e745-d1e1269">
+          <pc type="pilcrow"/> Sed 
+          <lb ed="#P" n="12"/>nulla relatio est distinguens patrem a filio nisi sola paternitas 
+          <lb ed="#P" n="13"/>ut notum est sed paternitas non potest est virtus generativa in patre 
+          <lb ed="#P" n="14"/>per praeceden<del rend="expunctuation">te</del>tem conclusionem igitur virtus generativa necessario est aliquod ab<lb ed="#P" break="no" n="15"/>solutum 
+          in patre
+        </p>
+        <p xml:id="Cnyt3a-d1e745-d1e1287">
+          <pc type="pilcrow"/> 4a conclusio virtus generativa <sic>im</sic> patre non potest esse 
+          <lb ed="#P" n="16"/>aliqua ratio constituens ipsum in esse personali probatur conclusio sic actualis 
+          <lb ed="#P" n="17"/>generatio quae est in divinis est actus intellectus ergo non potest ema<lb ed="#P" break="no" n="18"/>nare 
+          ab aliqua ratione constitutiva patris inesse personali assumptis 
+          <lb ed="#P" n="19"/>manifestis est et consequentia probatur quoniam si emanaret a ratione constitutiva in esse 
+          <lb ed="#P" n="20"/>personali aut pater per illam rationem haberet esse intellectuale aut esse 
+          <lb ed="#P" n="21"/>intellectuale quod habet subordinaretur in actu generationis tali rationi 
+          <lb ed="#P" n="22"/>personali utrumque est falsum et consequentia patet quoniam tum generatio sit actus in<lb ed="#P" break="no" n="23"/>tellectus 
+          necesse est quod vela solo intellectu emanet vel 
+          <lb ed="#P" n="24"/>ab aliquo quid sit supra intellectum cui scilicet intellectus sub ordinetur 
+          <lb ed="#P" n="25"/>aut ab aliquo cui intellectus praeordinetur sicut est sub intelligibilis 
+          <lb ed="#P" n="26"/>et habitus intellectualis sed per quid licet tale pater haberet esse intellectuale
+        </p>
+        <p xml:id="Cnyt3a-d1e745-d1e1318">
+          <lb ed="#P" n="27"/><pc type="pilcrow"/> 5a conclusio intellelctus divinis necessario est virtus generativa verbi in 
+          <lb ed="#P" n="28"/>patre probatur conclusio quoniam generatio verbi in quantumque mente est actus intellectus 
+          <lb ed="#P" n="29"/>ergo in quacumque mente intellectus est virtus generativa sui verbi geniti 
+          <lb ed="#P" n="30"/>ergo intellectus divinus necessario est virtus generativa verbi in ipso patre 
+          <lb ed="#P" n="31"/>et consequentia prima patet quoniam quilibet actus est actus sui <unclear>activi</unclear> ut ca<lb ed="#P" break="no" n="32"/>lefacere 
+          est actus caleficavi et sic de ceters ergo intellectus est activis 
+          <lb ed="#P" n="33"/>sui actus emanantis non est autem activis tanquam principium 
+          <lb ed="#P" n="34"/>quod et per consequens est virtus activa in generante
+        </p>
+        <p xml:id="Cnyt3a-d1e745-d1e1341">
+          <pc type="pilcrow"/> 6a conclusio quaelibet 
+          <lb ed="#P" n="35"/>ratio essentialis in patre est species intelligibilis de se ipsa apud intellectum 
+          <lb ed="#P" n="36"/>divinum ordinata ad verbi productione Ista conclusio patet nam quae quaelibet 
+          <lb ed="#P" n="37"/>talis ratio sit species intelligibilis de se ipsa apud intellectum divinum 
+          <lb ed="#P" n="38"/>patet ex eo quod non per aliam speciem intelligibilem quam per se ipsam intellectus 
+          <lb ed="#P" n="39"/>divinus intelligit quamlibet talem Quod autem quaelibet talis ratio 
+          <lb ed="#P" n="40"/>sit ordinata ad verbi productionem patet quoniam de qualibet tali nas<lb ed="#P" break="no" n="41"/>citur 
+          verbum tamquam de scientia dei patris
+        </p>
+        <p xml:id="Cnyt3a-d1e745-d1e1361">
+          <pc type="pilcrow"/> Ex hiis conclusionibus 
+          <lb ed="#P" n="42"/>sufficienter potest patere quid sit in patre virtus et potentia generativa 
+          <lb ed="#P" n="43"/>verbi quoniam intellectus et tota natura divina Sed alia et aliter quemad<lb ed="#P" break="no" n="44"/>modum 
+          in mente creata intellectus et scientia quae est in memoria
+        </p>
+        </div>
+        <div xml:id="Cnyt3a-d1e745-Dd1e1374">
+          <head xml:id="Cnyt3a-d1e745-Hd1e1376">Articulus 3</head>
+        <p xml:id="Cnyt3a-d1e745-d1e1378">
+          <lb ed="#P" n="45"/>Tertius articulus
+          <lb ed="#P" n="46"/>In quaestione formatus fuit iste utrum producere per 
+          <lb ed="#P" n="47"/>quod filius producitur in divinis sit formaliter 
+          <lb ed="#P" n="48"/>infinitum et inmensum producere vel potius solum 
+          <lb ed="#P" n="49"/>finitum
+        </p>
+        <p xml:id="Cnyt3a-d1e745-d1e1391">
+          <pc type="pilcrow"/> Circa quem articulum pono aliquas conclusiones <pc type="virgula">/</pc>
+          <lb ed="#P" n="50"/>quarum prima sit hoc <pc type="virgula">/</pc> Quodlibet obiectum intelligibile relucens in 
+          <lb ed="#P" n="51"/>verbo suo apud aliquem intellectum habet aliquo modo esse in 
+          <lb ed="#P" n="52"/>tali verbo in quo relucet Ista conclusio manifesta est apud philosophos et apud 
+          <lb ed="#P" n="53"/>theologos est enim communis doctrina eorum quod res intelligibiles 
+          <lb ed="#P" n="54"/>habent duplex esse unum in anima et apud intellectum aliud in se ipsis et 
+          <lb ed="#P" n="55"/>exempla animam unde <ref xml:id="Cnyt3a-d1e745-Rd1e1414">commentator 12 metaphysicae</ref> dicit quod balneum duplicem habet formam 
+          <lb ed="#P" n="56"/>unam in anima reliqua in materia et hoc est duplex esse balnei unum 
+          <lb ed="#P" n="57"/>in anima et apud intellectum aliud in se ipso et in materia Et <ref xml:id="Cnyt3a-d1e745-Rd1e1421">7o 
+          <lb ed="#P" n="58"/>metaphysicae</ref> dicit quod quidditates sunt existentes in anima dicitur enim sanitas 
+          <lb ed="#P" n="59"/>deforma quae est in anima et de habitu qui est in corpore et ambo sunt idem 
+          <lb ed="#P" n="60"/>habet ergo sanitas iuxta commentatorem duplex esse unum in anima et apud 
+          <lb ed="#P" n="61"/>intellectu alius in corpore et extra anima et sic de quolibet alio obiecto
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>intelligibili intelligendum est hoc eadem est intentio anselmi 
+          <lb ed="#P" n="63"/>in suo monologion ubi vult quod res creatae aliud esse habent 
+          <lb ed="#P" n="64"/>in seipsis et aliud esse habent in seipsam creatrice essentia per relucen<lb ed="#P" break="no" n="65"/>tias 
+          ydeales Et communis scola habet quod omnia quae facta sunt per verbum 
+          <lb ed="#P" n="66"/>habent esse in ipso verbo Ista conclusio non videtur mihi magnae difficultatis 
+          <lb ed="#P" n="67"/>Ideo non alia insisto circa eam sed ipsa praesuppono tamquam notam 
+          <lb ed="#P" n="68"/>apud multos
+        </p>
+        <p xml:id="Cnyt3a-d1e745-d1e1451">
+          <pc type="pilcrow">¶</pc> 2a conclusio omne obiectum intelligibile relucens in verbo 
+          <lb ed="#P" n="69"/>suo apud aliquem intellectum tam perfectum esse habet in illo verbo 
+          <lb ed="#P" n="70"/>quam illud verbum est perfectum verbum de tali obiecto Ista patet ex praecedenti 
+          <lb ed="#P" n="71"/>nam tale verbum est esse quoddam illius obiecti ymo est ipsum obiectum sed 
+          <lb ed="#P" n="72"/>tamen aliud esse quam illud quod habet in seipso ergo quanto verbum erit perfectius tanto 
+          <lb ed="#P" n="73"/>obiectum habebat perfectius esse in ipso unde si obiectum in se ipso non 
+          <lb ed="#P" n="74"/>vivat sicut lapis vivit tamen et est vita in suo verbo apud 
+          <lb ed="#P" n="75"/>quemcumque intellectum <pc type="virgula">/</pc> ideo perfectius esse habet in suo verbo apud intellectum 
+          <lb ed="#P" n="76"/>quam in se ipso et sic in verbo suo perfectiori <unclear>sumi</unclear> apud eundem intellectum 
+          <lb ed="#P" n="77"/>sumi apud intellectum perfectiorem obiectum proportionaliter in verbo 
+          <lb ed="#P" n="78"/>suo perfectiori habebit perfectius esse unde in verbo domino quodlibet 
+          <lb ed="#P" n="79"/>ens creatum habet tam perfectum esse et tam perfectius in ipso quam in quo<lb ed="#P" break="no" n="80"/>cumque 
+          alio verbo quam illud verbum est perfectum verbum in se ipse 
+          <lb ed="#P" n="81"/>et quanto est perfectius quocumque alio verbo de eodem ente creato
+        </p>
+        <p xml:id="Cnyt3a-d1e745-d1e1490">
+          <lb ed="#P" n="82"/><pc type="pilcrow">¶</pc> 3a conclusio productio verbi de aliquo obiecto intelligibili apud quem<lb ed="#P" break="no" n="83"/>cumque 
+          intellectum est productio illius obiecti cuius verbum productum est verbum 
+          <lb ed="#P" n="84"/>Ista conclusio patet ex duobus praecedentibus nam ex quo tale obiectum habet esse 
+          <lb ed="#P" n="85"/>in suo verbo producto et tam perfectum esse quam suum verbum est perfectum verbum 
+          <lb ed="#P" n="86"/>ergo tale obiectum in tali verbo suo habet esse productionum et tale esse quod h
+          <lb ed="#P" n="87"/>habet in suo verbo est esse productum ab eodem intellectum a quo producitur 
+          <lb ed="#P" n="88"/>verbum debet idem est esse productum ab intellectu verbi et sui obiecti quoniam verbum 
+          <lb ed="#P" n="89"/>est ipsum suum obiectum licet secundum aliud esse quam illud quod habet obiectum in se 
+          <lb ed="#P" n="90"/>ipso ergo obiectum verbi producitur ad productionem sui verbi secundum esse quod 
+          <lb ed="#P" n="91"/>habet meo et eadem est productio verbi secundum esse quod habet in suo verbo
+        </p>
+        <p xml:id="Cnyt3a-d1e745-d1e1517">
+          <lb ed="#P" n="92"/><pc type="pilcrow">¶</pc> 4a conclusio quodlibet obiectum intelligibile relucens in verbo suo producto 
+          <lb ed="#P" n="93"/>apud aliquem intellectum se ipsum obiectum habet esse productum in seipso et 
+          <lb ed="#P" n="94"/>habeat perfectius esse in suo verbo quam in se ipso sicud lapis tanto 
+          <lb ed="#P" n="95"/>pro perfectius producere et agere producitur ad productionem sui verbi quam 
+          <lb ed="#P" n="96"/>producatur in se ipso quantum esse quod habet in suo verbo est perfectius quam esse 
+          <lb ed="#P" n="97"/>quod habet in seipso Ista conlusio patet ex praecedentibus ex quo enim lapis 
+          <lb ed="#P" n="98"/>habet duplex esse unum in seipso aliud in suo verbo apud intellectum 
+          <lb ed="#P" n="99"/>et secundum utrumque esse producitur constat quod perfectiori productione producitur 
+          <lb ed="#P" n="100"/>secundum esse quod est perfectius quod si esse quod habet in suo verbo est perfectius 
+          <lb ed="#P" n="101"/>quam esse quod habet in seipso perfecto perfectiori productione producitur 
+          <lb ed="#P" n="102"/>in suo verbo quam in se ipso
+        </p>
+        <p xml:id="Cnyt3a-d1e745-d1e1545">
+          <pc type="pilcrow">¶</pc> Sic enim deus tripliciter producit res 
+          <lb ed="#P" n="103"/>creatas secundum augustinum primo in suo verbo aeterno 2o in notitia angelorum 
+          <lb ed="#P" n="104"/>3o in se ipsis unde 2o libro super genesem ad litteram ad hanc tripliciem pro<lb ed="#P" break="no" n="105"/>ductionem 
+          reducit illud dictum scripturae <unclear>dixi</unclear> deus fiat et <unclear>fecit</unclear> 
+          <lb ed="#P" n="106"/>deus et factum est dixi deus suo verbo aeterno et dicendo produxit in ipso 
+          <lb ed="#P" n="107"/>verbo producto deinde fecit deus in cogitatione rationali creaturae 
+          <lb ed="#P" n="108"/>ac deinde in proprio genera et de hac factione dicitur et factum est ita
+        </p>
+        <p xml:id="Cnyt3a-d1e745-d1e1568">
+          <pc type="pilcrow">¶</pc>  dico 
+          <lb ed="#P" n="109"/>igitur quod quaelibet res creata in proprio genere quae sic tripliciter producta est secundum 
+          <lb ed="#P" n="110"/>triplex suum esse valet in verbo dei et in cogitatione rationalis creaturae 
+          <lb ed="#P" n="111"/>hoc est in verbo mentis creatae et in se ipsa quod perfectiori productione pro<lb ed="#P" break="no" n="112"/>ducitur 
+          secundum illud esse quod est perfectius Qua propter lapis perfectiori 
+          <lb ed="#P" n="113"/>productione productus est secundum esse quod habet in verbo suo apud 
+          <lb ed="#P" n="114"/>intellectum rationalis creaturae quam secundum esse quod accepit in se 
+          <lb ed="#P" n="115"/>ipso
+        </p>
+        <p xml:id="Cnyt3a-d1e745-d1e1589">
+          <pc type="pilcrow">¶</pc> 5a conclusio Quaelibet res creata ab aeterno producebatur productione 
+          <lb ed="#P" n="116"/>perfectiori quam fuerit producta productione temporali producitur conclusio primo 
+          <lb ed="#P" n="117"/>quo ad primam partem valet quod quaelibet res creata <del rend="vacat">habet esse in verbo in<lb ed="#P" break="no" n="118"/>genito</del> 
+          ab aeterno producebatur nam quaelibet res creata habet esse in verbo 
+          <lb ed="#P" n="119"/>genito in intellectu divino et tale verbum ab aeterno producebatur ergo 
+          <lb ed="#P" n="120"/>et creatura quae habet esse in tali verbo secundum esse quod habet in eo ab aeter<lb ed="#P" break="no" n="121"/>no 
+          producebatur et eadem fuit et est productio verbi et creaturae quae 
+          <lb ed="#P" n="122"/>habet esse in verbo
+        </p>
+        <p xml:id="Cnyt3a-d1e745-d1e1613">
+          <pc type="pilcrow">¶</pc> 2a vero pars conclusionis valet quod perfectiori productione pro<lb ed="#P" break="no" n="123"/>ductione 
+          producebatur ab aeterno quam fuerit productio qua pro<lb ed="#P" break="no" n="124"/>ducebatur 
+          temporaliter in se ipsa patet ex praecedenti conclusione et potest probari 
+          <lb ed="#P" n="125"/>sic <c>b</c> lapis perfectiori productione producebatur cum factus fuit 
+          <pb ed="#P" n="104-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>et productus in notitia et in verbo mentis angelici  quam quando fuit 
+          <lb ed="#P" n="2"/>productus in se ipso hoc patet in praecedenti <del rend="strikethrough">conclusione</del> conclusione sed non 
+          <lb ed="#P" n="3"/>minus perfecte producebatur aeternaliter in verbo dei in mente divi<lb ed="#P" break="no" n="4"/>na 
+          quam temporalia in verbo mentis angelicae igitur Et nota quod 
+          <lb ed="#P" n="5"/>quaelibet creatura aeternaliter producta in verbo dei non ibi crea<lb ed="#P" break="no" n="6"/>ta 
+          est sed genita unde creatura quaelibet in verbo dei habet esse produc<lb ed="#P" break="no" n="7"/>tum 
+          non tamen factum sed genitum unde augustinus ubi dicitur Quapropter in<lb ed="#P" break="no" n="8"/>quit 
+          lucis conditio prius est in verbo dei secundum ratione qua condita 
+          <lb ed="#P" n="9"/>est hoc est in coaeterna patris sapientia ac deinde in ipsa lucis con<lb ed="#P" break="no" n="10"/>ditione 
+          secundum naturam in quoa condita est illic non facta sed genita 
+          <lb ed="#P" n="11"/>hic vero facta et ideo dixit deus fiat lux
+        </p>
+        <p xml:id="Cnyt3a-d1e745-d1e1659">
+          <pc type="pilcrow">¶</pc> 6a conclusio divina natura 
+          <lb ed="#P" n="12"/>habet esse aliquo multo aliter in verbo genito et aliter in se ipso patet 
+          <lb ed="#P" n="13"/>ista conclusio quoniam in se ipsa natura divina habet esse communicabile et essentiale In verbo 
+          <lb ed="#P" n="14"/>autem suo genito habet esse incommunicabile et notionale tamquam in 
+          <lb ed="#P" n="15"/>sua perfecta similitudine et completa ymagine igitur hinc apparet quod 
+          <lb ed="#P" n="16"/>quemadmodum quaelibet creatura aliud esse habet in se ipsa atque aliud 
+          <lb ed="#P" n="17"/>in suo verbo apud quemcumque intellectum ita et de divina natura sentien<lb ed="#P" break="no" n="18"/>dum 
+          est non quidem de esse existentiae sed de esse essentiae unde et quaelibet mens 
+          <lb ed="#P" n="19"/>creata habens verbum de seipsa consubstantiale sibi eiusdem <unclear>sciliciet</unclear> substantiae et eiusdem 
+          <lb ed="#P" n="20"/>spiritus et non differens nisi relative secundum <ref xml:id="Cnyt3a-d1e745-Rd1e1686">augustinum 9o liber de trinitate</ref> Ipsa 
+          <lb ed="#P" n="21"/>tamen mens aliquo modo aliud esset habet in se ipsa quod est sub<lb ed="#P" break="no" n="22"/>stantiale 
+          et essentiale et aliud esse habet in suo verbo de se ipsa genito 
+          <lb ed="#P" n="23"/>sic et de natura divina dicendum est
+        </p>
+        <p xml:id="Cnyt3a-d1e745-d1e1696">
+          <pc type="pilcrow">¶</pc> 7o conclusio divina natura ad productionem 
+          <lb ed="#P" n="24"/>verbi sui producitur et ipsa vere gignitur probatur conclusio nam ipsa habet esse in 
+          <lb ed="#P" n="25"/>suo verbo genito ergo secundum tale esse quod habet in suo verbo gignitur 
+          <lb ed="#P" n="26"/>in suo verbo et eadem est productio qua producitur verbum et divi<lb ed="#P" break="no" n="27"/>na 
+          natura in verbo sicut de creatura habente esse in verbo et de obiecto intel<lb ed="#P" break="no" n="28"/>ligibili 
+          universaliter relucente in suo verbo apud aliquem intellectum ut 
+          <lb ed="#P" n="29"/>dictum est 
+        </p>
+        <p xml:id="Cnyt3a-d1e745-d1e1715">
+          <pc type="pilcrow">¶</pc> 8a conclusio divina natura tam perfectum esse habet in suo verbo 
+          <lb ed="#P" n="30"/>genito et de seipsa nato quam perfectum esse habet in seipsa patet conclusio 
+          <lb ed="#P" n="31"/>quoniam alias verbum de se ipsa genitum non esse sibi aequale per omnia 
+          <lb ed="#P" n="32"/>quod falsum est
+        </p>
+        <p xml:id="Cnyt3a-d1e745-d1e1727">
+          <pc type="pilcrow">¶</pc> Si ergo verbum de natura divina genitum est ei 
+          <lb ed="#P" n="33"/>aequale omnino ergo aequale esse et tantum ac tale habet in verbo suo quantum 
+          <lb ed="#P" n="34"/>et quale habet in se ipsa
+        </p>
+        <p xml:id="Cnyt3a-d1e745-d1e1737">
+          <pc type="pilcrow">¶</pc> 9a conclusio tam in mensa productione 
+          <lb ed="#P" n="35"/>producitur verbum de natura divina genitum quam inmensa produceretur 
+          <lb ed="#P" n="36"/>divina natura si produceretur secundum esse essentiale et communicabile quod habet in se<lb ed="#P" break="no" n="37"/>ipsa 
+          probatur conclusio sic Tanta productione producitur verbum de natura 
+          <lb ed="#P" n="38"/>divina quanta productione producitur ipsa natura divina secundum esse <unclear>quod</unclear> habet in 
+          <lb ed="#P" n="39"/>suo verbo genito Sed tanta productione producitur 
+          <lb ed="#P" n="40"/>natura divina secundum esse quod habet in suo verbo genito quanta produceretur 
+          <lb ed="#P" n="41"/>si produceretur secundum esse essentiale et communicabile quod habet in se ipsa hoc patet 
+          <lb ed="#P" n="42"/>quoniam tantum est illud esse quod habet in suo verbo genito quantum est 
+          <lb ed="#P" n="43"/>esse suum essentiale quod habet in se ipsa sed immensa productione pro<lb ed="#P" break="no" n="44"/>ducere 
+          divina natura si produceretur secundum eam essentiale quod habet nisi 
+          <lb ed="#P" n="45"/>ipsa ergo inmensa productione produceretur in suo verbo genito 
+          <lb ed="#P" n="46"/>et per consequens immensa productione producitur verbum suum genitum 
+        </p>
+        <p xml:id="Cnyt3a-d1e745-d1e1771">
+          <pc type="pilcrow">¶</pc> 10a conclusio Quodlibet ens creabile producitur in natura divina per 
+          <lb ed="#P" n="47"/>producere quod est inmensum ager probatur conclusio quoniam quodlibet tale ens pro<lb ed="#P" break="no" n="48"/>ducitur 
+          in verbo genito in divina natura et per idem producere omnino per 
+          <lb ed="#P" n="49"/>quod producitur verbum sed verbum producitur per producere quod est 
+          <lb ed="#P" n="50"/>infinitum et inmensum agere igitur
+        </p>
+        <p xml:id="Cnyt3a-d1e745-d1e1785">
+          <pc type="pilcrow">¶</pc> Ex supra positis igitur conclusionibus 
+          <lb ed="#P" n="51"/>patet quid dicendum sit ad istum articulum non obstantibus dictis quorumdam 
+          <lb ed="#P" n="52"/>aliorum qui trepidant timore ubi nullus est timor 
+          <lb ed="#P" n="53"/><unclear>innent</unclear> namque quidam quod producere per quod producitur filius 
+          <lb ed="#P" n="54"/>in divinis sit infinitum agere et inmensum producere <unclear>ne</unclear> cogantur 
+          <lb ed="#P" n="55"/>ponere infinitam perfectionem in termino formali generationis divinae 
+          <lb ed="#P" n="56"/>et in esse personali alicuius personae divinae ut sic habentes hoc 
+          <lb ed="#P" n="57"/>per magno inconvenienti Si enim lapsi habet longe perfectius 
+          <lb ed="#P" n="58"/>esse <del rend="strikethrough">in</del> in verbo suo apud intellectum creatum quam in seipso et 
+          <lb ed="#P" n="59"/>tam perfectius esse quod in seipso non vivit In verbo autem suo 
+          <lb ed="#P" n="60"/>vivit et est vita et non quaecumque vita sed vita intellectualis 
+        </p>
+        <p xml:id="Cnyt3a-d1e745-d1e1820">
+          <pc type="pilcrow">¶</pc> Vivit <unclear>etiam</unclear> in verbo suo vita intellectuali tam nobili quam 
+          <lb ed="#P" n="61"/>nobili vita intellectuali vivit intellectus ille apud quem est 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="62"/>tale verbum quod si gradatim per latitudinem intelligentiarum 
+          <lb ed="#P" n="63"/>versus deum ascendimus ad aliud <unclear>esse</unclear> aliud verbum de eodem 
+          <lb ed="#P" n="64"/>obiecto ascendimus utique ad perfectius et perfectius esse ipsius lapidis 
+          <lb ed="#P" n="65"/>et ad perfectius suum vivere cum deventis fuerit ad verbum mentis 
+          <lb ed="#P" n="66"/>divinae numquid deventum erit ad inmensum esse et vivere lapidis 
+          <lb ed="#P" n="67"/>et per consequens adesse et vivere eius inmense perfectum et inmense per<lb ed="#P" break="no" n="68"/>fectius 
+          quam sic esse et vivere quod habet in aliquo verbo creato et per consequens 
+          <lb ed="#P" n="69"/>verbum genitum in mente divina est immensa perfectio
+        </p>
+        <p xml:id="Cnyt3a-d1e745-d1e1852">
+          <pc type="pilcrow">¶</pc> pro sapientia creata 
+          in mentibus creatis est formaliter perfectio et mens creata redditur per ipsam 
+          <lb ed="#P" n="70"/>formaliter perfecta ergo et sapientia genita est ut sic formaliter perfectio 
+          <lb ed="#P" n="71"/>et tanto mayor perfectio quam quaecumque sapientia creata quanto <del rend="expunctuation">sapientia</del> 
+          <lb ed="#P" n="72"/>sapientia genita est in mayor sapientia quam aliqua sapientia creata Et 
+          <lb ed="#P" n="73"/>certe sapientia creata non ratione entitatis de genera accidentis aut <unclear>etiam</unclear>
+          <lb ed="#P" n="74"/>de genera substantiali dicit formaliter perfectionem sed ratione potius qua 
+          <lb ed="#P" n="75"/>est actus vitalis intellectus et est apparentia intellectualis et 
+          <lb ed="#P" n="76"/>tamen nobilis relucentia eorum quae in ipsa relucent apud intellectum 
+          <lb ed="#P" n="77"/>Cum ergo verbum divinum et sapientia ipsa genita in mente divina sit 
+          <lb ed="#P" n="78"/>apparentia inmense perfecta et relucentia omnium eorum quae relucent 
+          <lb ed="#P" n="79"/>in sapientia ingenita qua deus pater est formaliter sapiens 
+          <lb ed="#P" n="80"/>et tanta relucentia omnium eorum est ipsa sapientia genita quanta 
+          <lb ed="#P" n="81"/>relucentia eorumdem est sapientia ingenita quoniam illa omnia tam perfecte 
+          <lb ed="#P" n="82"/>relucent in sapientia genita quam perfecte relucent in sapientia ingenita 
+          <lb ed="#P" n="83"/>quod si penes relucentiam attenditur perfectio verbi et sapientiae constat 
+          <lb ed="#P" n="84"/>quod verbum genitum et sapientiam illa genita in mente divina et formaliter 
+          <lb ed="#P" n="85"/>infinita perfectio et ex hoc potest tamquam ex alio capite probari propositum 
+          <lb ed="#P" n="86"/>articuli valet quod producere divinum adintra per quod producitur verbum 
+          <lb ed="#P" n="87"/>est immensum agere cum trinus formalis eius sit formaliter 
+          <lb ed="#P" n="88"/>inmensus
+        </p>
+        </div>
+        <div xml:id="Cnyt3a-d1e745-Dd1e1905">
+          <head xml:id="Cnyt3a-d1e745-Hd1e1907">Articulus 4</head>
+        <p xml:id="Cnyt3a-d1e745-d1e1909">
+          <lb ed="#P" n="89"/>QUartus articulus 
+          <lb ed="#P" n="90"/>In quaestione decisus erat de quo quaestio ipsa quae<lb ed="#P" break="no" n="91"/>rebat 
+          <del rend="expunctuation">valet</del> utrum posset generare verbum dicat ex se 
+          <lb ed="#P" n="92"/>perfectionem simpliciter
+        </p>
+        <p xml:id="Cnyt3a-d1e745-d1e1923">
+          <pc type="pilcrow">¶</pc>  Circa quod articulum 
+          <lb ed="#P" n="93"/>pono aliquas conclusiones quarum prima sit hoc
+        </p>
+        <p xml:id="Cnyt3a-d1e745-d1e1931">
+          <pc type="pilcrow">¶</pc>  Omnis virtus activa 
+          <lb ed="#P" n="94"/>in quocumque agente dicit ex se perfectione in eo probatur conclusio sic 
+          <lb ed="#P" n="95"/>unum quodcumque tunc perfectum est secundum suam naturam quando potest agere ea quae 
+          <lb ed="#P" n="96"/>sunt secundum naturam illam igitur conclusio vera consequentia manifesta est et antecedens non 
+          <lb ed="#P" n="97"/>solum patet ex doctrina philosophi et commentaris in 2o libro de anima verum etiam 
+          <lb ed="#P" n="98"/>patere potest <unclear>discurrendo</unclear> per singula genera ipsorum agentium Quae 
+          <lb ed="#P" n="99"/>enim agentia sunt <del rend="expunctuation">naturalia</del> rationalia quia agunt per rationem <del rend="expunctuation">eras</del> in eis 
+          <lb ed="#P" n="100"/>quaedam <unclear>vero</unclear> sunt agentia naturalia quoniam agunt solum secundum in<lb ed="#P" break="no" n="101"/>clinationem 
+          et cursum <unclear>vero</unclear> Rursus agentia quae agunt per rationem 
+          <lb ed="#P" n="102"/>in eis sunt in duplici differentia quoniam quaedam agunt ea quae spectant 
+          <lb ed="#P" n="103"/>ad artes quaedam autem agunt ea quae spectant ad mores et ad 
+          <lb ed="#P" n="104"/>virtutes morales Illa dicuntur agentia intellectualia ista 
+          <lb ed="#P" n="105"/><unclear>vero</unclear> moralia
+        </p>
+        <p xml:id="Cnyt3a-d1e745-d1e1977">
+          <pc type="pilcrow">¶</pc> Illa etiam agentia quae per intellectum agunt ea 
+          <lb ed="#P" n="106"/>quae spectant ad artes sunt iterum in duplici differentia quoniam quaedam agunt 
+          <lb ed="#P" n="107"/>ea quae spectant ad artes factivas sumi ad artes mechanicus 
+          <lb ed="#P" n="108"/>quaedam <unclear>vero</unclear> agunt ea quae spectant ad artes scientificas scientias 
+          <lb ed="#P" n="109"/>In omnibus igitur hiis generibus agentium potest videri quod tunc u<lb ed="#P" break="no" n="110"/>numquodque 
+          perfectum est secundum suam naturam quando potest agere ea sunt secundam naturam 
+          <lb ed="#P" n="111"/>illam
+        </p>
+        <p xml:id="Cnyt3a-d1e745-d1e1999">
+          <pc type="pilcrow">¶</pc>  primum quidam patet in artibus ars enim ipsa est natura sui ar<lb ed="#P" break="no" n="112"/>tificis 
+          et est in eo virtus activa Tunc autem perfectus est citharedus 
+          <lb ed="#P" n="113"/>secundum naturam suae artis quando bene potest in actum cithracandi qui est 
+          <lb ed="#P" n="114"/>secundum artem illam
+        </p>
+        <p xml:id="Cnyt3a-d1e745-d1e2011">
+          <pc type="pilcrow">¶</pc>  De musico similiter tunc unusquisque est perfectus 
+          <lb ed="#P" n="115"/>musicus quando potest bene exercere actum suae artis Tunc unus<lb ed="#P" break="no" n="116"/>quisque 
+          est bonus sutor quando bene potest exercere actum suae artis 
+          <lb ed="#P" n="117"/>et sic in singulis artibus est videre
+        </p>
+        <p xml:id="Cnyt3a-d1e745-d1e2023">
+          <pc type="pilcrow">¶</pc>  In <unclear>scientiis</unclear> similiter tunc unus<lb ed="#P" break="no" n="118"/>quisque 
+          est perfectus geometra cum bene potest aequae quae sunt illius 
+          <lb ed="#P" n="119"/>scientiae et sic in cunctis aliis scientiis considerandum est
+        </p>
+        <p xml:id="Cnyt3a-d1e745-d1e2035">
+          <pc type="pilcrow">¶</pc>  Et de ta<lb ed="#P" break="no" n="120"/>libus 
+          dicit aristoteles primo metaphysicae quod signum scientis est posse 
+          <lb ed="#P" n="121"/>docere In virtutibus moralibus hoc idem patere potest tunc enim 
+          <lb ed="#P" n="122"/>unusquisque est perfectus in virtute iustitiae quando potest bene agere 
+          <lb ed="#P" n="123"/>opera quae sunt secundum virtutem illam
+        </p>
+        <p xml:id="Cnyt3a-d1e745-d1e2049">
+          <pc type="pilcrow">¶</pc>  Et tunc unusquisque est perfectus 
+          <lb ed="#P" n="124"/>secundum fortitudinem quando bene potest agere secundum virtutem illam et sic de ceteris 
+          <lb ed="#P" n="125"/>virtutibus moralibus
+        </p>
+        <p xml:id="Cnyt3a-d1e745-d1e2059">
+          <pc type="pilcrow">¶</pc>  In agentibus etiam naturalibus hoc idem 
+          <pb ed="#P" n="104-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>patet omnino agentia namque naturalia sunt iterum 
+          <lb ed="#P" n="2"/>in duplici differentia quoniam quaedam sunt vitalia et agunt actus 
+          <lb ed="#P" n="3"/>vitae quaedam vero sunt omnino vita carentia <pc type="punctus"/> agentia  vitalia 
+          <lb ed="#P" n="4"/>sunt rursus in duplici differentia quoniam quaedam sunt sensitiva quae<lb ed="#P" break="no" n="5"/>dam 
+          vero pure vegetativa Et in singulis hiis generibus pro<lb ed="#P" break="no" n="6"/>positum 
+          potest clare videri nam in agentibus vitalibuus viventibus 
+          <lb ed="#P" n="7"/>vita sensitiva qualia sunt animalia videri potest propositum in singulis 
+          <lb ed="#P" n="8"/>speciebus Tunc enim unusquisque equus est perfectus in specie equi 
+          <lb ed="#P" n="9"/>quando bene potest agere ea quae sunt secundum naturam equinam Et tunc unusquis<lb ed="#P" break="no" n="10"/>que 
+          canis est perfectus secundum suam naturam quand bene potest agere ea quae sunt 
+          <lb ed="#P" n="11"/>secundum speciem suam et sic de aliis speciebus animalium In agentibus 
+          <lb ed="#P" n="12"/>similiter viventibus vita vegetativa solum hoc idem reperitur Tunc 
+          <lb ed="#P" n="13"/>enim est perfecta oliva tum bene potest agere ea quae sunt secundum naturam olivae et de 
+          <lb ed="#P" n="14"/>cedro similiter et de cunctis aliis vegetativis In agentibus etiam 
+          <lb ed="#P" n="15"/>vita carentibus hoc idem videtur omnino unumquodque enim calidum 
+          <lb ed="#P" n="16"/>tunc est perfectum secundum naturam caloris quando bene potest agere ea quae <unclear>inunt</unclear> 
+          <lb ed="#P" n="17"/>secundum naturam calidi et sic de singulis aliis talibus agentibus 
+          <lb ed="#P" n="18"/>Ergo universaliter verum est quod tunc unumquodque perfectum est in sua natura cum 
+          <lb ed="#P" n="19"/>potest agere ea quae sunt secundum naturam illam et quoniam virtus activa non est 
+          <lb ed="#P" n="20"/>data agenti nisi ut per <seg type="correction">ips<add place="above-line">a</add>m</seg> agat ea quae sunt secundum naturam agentis 
+          <lb ed="#P" n="21"/>Ideo virtus activa In unoquoque agente dicit formaliter 
+          <lb ed="#P" n="22"/>perfectionem in eo cum per ipsam agens reddatur formaliter perfectam
+        </p>
+        <p xml:id="Cnyt3a-d1e745-d1e2128">
+          <lb ed="#P" n="23"/><pc type="pilcrow">¶</pc> 2a conclusio virtus productiva verbi in quocumque intellectu 
+          <lb ed="#P" n="24"/>dicit formaliter perfectionem in tali intellectu Ista conclusio patet ex praecedenti 
+          <lb ed="#P" n="25"/>per ea quae dicta sunt in corpore praecedentis conclusionis ubicumque enim reperitur 
+          <lb ed="#P" n="26"/>producuere verbi intellectualis ibi tale producere est secundum naturam illius 
+          <lb ed="#P" n="27"/>intellectivo ergo virtus productiva spectat ad perfectionem intellectus 
+          <lb ed="#P" n="28"/>producentis
+        </p>
+        <p xml:id="Cnyt3a-d1e745-d1e2146">
+          <pc type="pilcrow">¶</pc> 3a conclusio virtus generativa in deum a natura dicit for<lb ed="#P" break="no" n="29"/>maliter 
+          perfectionem meam patet ista conclusio ex praecedentis nam virtus pro<lb ed="#P" break="no" n="30"/>ductiva 
+          verbi dicit perfectionem <del rend="expunctuation">verbi</del> tam intellectu producente 
+          <lb ed="#P" n="31"/>quam in speciei intelligibili aut scientia de qua verbum gignitur 
+          <lb ed="#P" n="32"/>quoniam producere verbum est secundum naturam utriusque et hoc spectant ad 
+          <lb ed="#P" n="33"/>divinam naturam
+        </p>
+        <p xml:id="Cnyt3a-d1e745-d1e2166">
+          <pc type="pilcrow">¶</pc> 4a conclusio omne quod dicit perfectionem in toto 
+          <lb ed="#P" n="34"/>genere intellectualium naturarum illud dicit perfectione simpliciter Ista 
+          <lb ed="#P" n="35"/>conclusio probatur praesupposita regula anselmi in monologion quod illud 
+          <lb ed="#P" n="36"/>dicit perfectionem simpliciter quod unicuique rei melius esset 
+          <lb ed="#P" n="37"/>ipsum quam non ipsum ut vivere quia unicuique rei melius 
+          <lb ed="#P" n="38"/>esset vivere quam non vivere ideo dicit perfecti omne simpliciter Et sic 
+          <lb ed="#P" n="39"/>universaliter de aliis perfectionibus probatur igitur conclusio Illud quod dicit 
+          <lb ed="#P" n="40"/>perfectionem in toto genere intellectualium naturarum illud esse uni<lb ed="#P" break="no" n="41"/>cuique 
+          naturae intellectuali melius ipsum quam non ipsum sed omnem 
+          <lb ed="#P" n="42"/>quod unicuique naturae intellectuali esset melius ipsum quam 
+          <lb ed="#P" n="43"/>non ipsum unicuique etiam alteri naturae non intellectuali esset me<lb ed="#P" break="no" n="44"/>lius 
+          ipsum quam non ipsum patet hoc quoniam per ipsum natura non intellec<lb ed="#P" break="no" n="45"/>tualis 
+          ascenderet ad dignitatem et perfectionem naturae intellectualis 
+          <lb ed="#P" n="46"/>et per consequens omen tale generaliter diceret perfectionem in quocumque 
+          <lb ed="#P" n="47"/>reperiretur ergo dicit perfectionem simpliciter secundum praescriptam regulam
+        </p>
+        <p xml:id="Cnyt3a-d1e745-d1e2202">
+          <lb ed="#P" n="48"/><pc type="pilcrow">¶</pc> praetera omne quod dicit perfectionem in aliquo et in nullo alio 
+          <lb ed="#P" n="49"/>repugnaret perfectionem mayori Illud dicit perfectionem simpliciter 
+          <lb ed="#P" n="50"/>sed omne quod dicit perfectionem in toto genere intellectualium naturarum 
+          <lb ed="#P" n="51"/>illud non repugnat perfectioni mayori in quacumque 
+          <lb ed="#P" n="52"/>natura <del rend="expunctuation">ponam</del> ponatur Istud patet quoniam omnis perfectio sumitur reperitur 
+          <lb ed="#P" n="53"/>in genere intellectualium naturarum igitur omne quod dicit perfectionem 
+          <lb ed="#P" n="54"/>in toto genere intellectualium naturarum illud dicit perfectionem simpliciter primum 
+          <lb ed="#P" n="55"/>assumptum patet sic si aliquid dicit perfectionem in aliquo et non dicit 
+          <lb ed="#P" n="56"/>perfectionem simpliciter illud sic dicit perfectionem in aliquo quod non 
+          <lb ed="#P" n="57"/>diceretur perfectionem in quolibet Sed hoc non potest esse nisi quia in aliquo 
+          <lb ed="#P" n="58"/>repugnaret perfectionem mayori ut habere plures sensus 
+          <lb ed="#P" n="59"/>ita dicit perfectionem in animali quod non diceret perfectionem in angelo 
+          <lb ed="#P" n="60"/>et hoc ex eo quod repugnat perfectioni mayori quae est in angelo
+        </p>
+        <p xml:id="Cnyt3a-d1e745-d1e2238">
+          <lb ed="#P" n="61"/><pc type="pilcrow">¶</pc> 5a conclusio virtus productiva verbi <del rend="strikethrough">mentali</del> mentalis dicit 
+          <lb ed="#P" n="62"/>perfectionem simpliciter patet ista conclusio ex praecedentibus nam dicit perfectionem 
+          <lb ed="#P" n="63"/>in toto intellectualium naturarum per 2am conclusionem et omne tale dicit 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="64"/>perfectionem simpliciter per quantam igitur
+        </p>
+        <p xml:id="Cnyt3a-d1e745-d1e2257">
+          <pc type="pilcrow">¶</pc>  Ex 
+          <lb ed="#P" n="65"/>hiis conclusionibus patet conclusio responsiva ad articulum quae est ista
+        </p>
+        <p xml:id="Cnyt3a-d1e745-d1e2266">
+          <pc type="pilcrow">¶</pc> posset ge<lb ed="#P" break="no" n="66"/>nerare 
+          verbum dicit perfectionem simpliciter quoniam dicit perfectionem 
+          <lb ed="#P" n="67"/>in deo et in quocumque alio citra deum
+        </p>
+        <p xml:id="Cnyt3a-d1e745-d1e2276">
+          <pc type="pilcrow">¶</pc>  Sed cum istam conclusionem 
+          <lb ed="#P" n="68"/>quia arguitur sic omnis perfectio simpliciter competit cuilibet perfecte divinae sed pos<lb ed="#P" break="no" n="69"/>se 
+          generare verbum non competit cuilibet personae divinae quia non 
+          <lb ed="#P" n="70"/>competit filio aut spiritui sancto igitur non dicit perfectionem simpliciter
+        </p>
+        <p xml:id="Cnyt3a-d1e745-d1e2288">
+          <pc type="pilcrow">¶</pc> dicendum quod posse generare verbum competiti filio vel non potest 
+          <lb ed="#P" n="71"/>sub duplici sensu intelligi secundum quod istud verbum potest et pos<lb ed="#P" break="no" n="72"/>se 
+          solet facere duplicem intelligentiam nam istud verbum potest 
+          <lb ed="#P" n="73"/>et posset aliquando notat potentiam activam in eo quod dicitur posse ut 
+          <lb ed="#P" n="74"/>dicendo sortes potest currere deus potest creare et huiusmodi et sic posset generare 
+          <lb ed="#P" n="75"/>dicit potentiam generativam in eo cui attribuitur posset generare 
+          <lb ed="#P" n="76"/>et sic posse generare et producere verbum utique competit filio et spiritui 
+          <lb ed="#P" n="77"/>sancto unde augustinus maximum quaerente Cur filius non ge<lb ed="#P" break="no" n="78"/>nuit 
+          vel quia non potuit et sic infirmus fuit aut quia no<lb ed="#P" break="no" n="79"/>luit 
+          et sic invidus Respondet augustinus quod non genuit non quia non 
+          <lb ed="#P" n="80"/>potuit sed quia non oportuit potuit ergo filius genuisse sed 
+          <lb ed="#P" n="81"/>si non genuit hoc fuit quia non oportuit clara namque est responsio 
+          <lb ed="#P" n="82"/>augustini dicendo quod filius potuit genuisse sic enim respondet ad in<lb ed="#P" break="no" n="83"/>tentionem 
+          interrogantis interrogabat namque hereticus aut 
+          <lb ed="#P" n="84"/>filius potuit generare aut non potuit si non potuit ergo 
+          <lb ed="#P" n="85"/>infirmus fuit et per consequens non est aequalis patri et cuiusdam potentiae 
+          <lb ed="#P" n="86"/>cum eo et hoc intendebat haereticus <unclear>inaequalitatibus</unclear> filii 
+          <lb ed="#P" n="87"/>ad patrem
+        </p>
+        <p xml:id="Cnyt3a-d1e745-d1e2333">
+          <pc type="pilcrow">¶</pc>  Augustinus ergo respondens quod non quia non potuit sed 
+          <lb ed="#P" n="88"/>quia non oportuit manifeste ponit filium potuisse generare et 
+          <lb ed="#P" n="89"/>quare non genuit tum potuerit tantum assignat dicens 
+          <lb ed="#P" n="90"/>quia non oportuit et sub hoc intelectu quo istud verbum potest 
+          <lb ed="#P" n="91"/>et posse notat potentiam activam posse producere verbum dicit 
+          <lb ed="#P" n="92"/>utique perfectionem et perfectionem simpliciter sicut patet in conclusionibus superius po<lb ed="#P" break="no" n="93"/>sitis 
+          aliquando vero verbum istud <!-- possible inversion correction here --> potest et posse non notat potentiam 
+          <lb ed="#P" n="94"/>activam in eo quod dicitur posset sed solum notat possibile esse cui op<lb ed="#P" break="no" n="95"/>ponitur 
+          inpossibile esse ut dicendo deus potest esse et deus potest sapere 
+          <lb ed="#P" n="96"/>aut potest esse bonis sapiens et huiusmodi <sic>dyamet</sic> potest esse 
+          <lb ed="#P" n="97"/>incommensurabilis <unclear>coste</unclear> in hiis omnibus et similibus per posse non 
+          <lb ed="#P" n="98"/>notatur aliqua potentia activa ad ea quae cadunt subtali pos<lb ed="#P" break="no" n="99"/>se 
+          sed solum notatur illa omnia non esse impossibilia sed potius 
+          <lb ed="#P" n="100"/>possibilia ut deum esse non est inpossibile sed potius possibile sic deum 
+          <lb ed="#P" n="101"/>esse sapientem et dyametrum esse <!-- possible correction here --> incommensurabilem <unclear>coste</unclear> quae 
+          <lb ed="#P" n="102"/>omnia revera et iuxta considerationem scientificam debent potius 
+          <lb ed="#P" n="103"/>dici necessaria quam possibili Sed propter inpossibile oppositum possibili illa 
+          <lb ed="#P" n="104"/>omnia dicuntur possibilia ne videantur tamquam inpossibilia sub hoc 
+          <lb ed="#P" n="105"/>autem sensu posse non dicit aliquam perfectionem sed solum connex<lb ed="#P" break="no" n="106"/>ionem 
+          et convenientem habitudinem terminorum iuxta hunc ergo sensum 
+          <lb ed="#P" n="107"/>posse generare idem est quod possibile esse ut genent et sic pos<lb ed="#P" break="no" n="108"/>se 
+          generare non competit filio nec dicit pefectionem non enim 
+          <lb ed="#P" n="109"/>est possibile filium generare Sed diceret iterum aliquis ex quo 
+          <lb ed="#P" n="110"/>in filio est potentia generandi per quam potest utique generare ut 
+          <lb ed="#P" n="111"/>supra dictum est ergo possibile est ipsum generare ad quod dicendum est 
+          <lb ed="#P" n="112"/>quod non sequitur et hic decipiuntur multi putantes consequentiam illam esse 
+          <lb ed="#P" n="113"/>bonam et ideo multum litigant circa antecedens non accipientes pure 
+          <lb ed="#P" n="114"/>et scientifice dictum augustini dicentis non quia non potuit <unclear>set</unclear> quia non 
+          <lb ed="#P" n="115"/>oportuit
+        </p>
+        <p xml:id="Cnyt3a-d1e745-d1e2412">
+          <pc type="pilcrow">¶</pc> Considerandum est ergo circa consequentiam istam filius potest 
+          <lb ed="#P" n="116"/>generare ergo possibile est ipsum generare iuxta considerationem 
+          <lb ed="#P" n="117"/>anselmi in tractatu suo de casu dyaboli circa consequentiam talem
+          <lb ed="#P" n="118"/>mundus antequam esset non poterat esse ergo impossibile fuit 
+          <lb ed="#P" n="119"/>mundum esse negat enim istam et dicit ipsam non esse bonam 
+          <lb ed="#P" n="120"/><unclear>consequens</unclear> <unclear>tendit</unclear> namque antecedens quod mundus antequam esset non poterat 
+          <lb ed="#P" n="121"/>esse quoniam antequam esset nullam habebat potentiam per quam posset 
+          <lb ed="#P" n="122"/>esse et sic de ante christo dicendum es quod non potest esse quia nullam habet potentiam 
+          <lb ed="#P" n="123"/>per quam possit esse et tamen non sequitur ergo impossibile est ipsum esse 
+          <lb ed="#P" n="124"/>non quidam per potentiam quae sit in eo sed per potentiam quae est in deo ad 
+          <lb ed="#P" n="125"/>producendum ipsum sicut econtra de posse generare dicendum est enim quod 
+          <pb ed="#P" n="105-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>filius potest quidem generare quoniam habet potentiam generandi et eandem quam 
+          <lb ed="#P" n="2"/>habet pater tamen inpossibile est ipsum generare non per carentiam potentiae in eo sed 
+          <lb ed="#P" n="3"/>quia inpossibile est aut se ipsum generare autem aliud verbum esse in divinis 
+          <lb ed="#P" n="4"/>non quod se ipsum aliquid gignat natura rei non patitur aliud etiam 
+          <lb ed="#P" n="5"/>esse verbum in divinis non est possibile
+        </p>
+        <p xml:id="Cnyt3a-d1e745-d1e2458">
+          <pc type="pilcrow">¶</pc> Quare autem non sit 
+          <lb ed="#P" n="6"/>possibile aliud verbum esse in divinis adversis diversimode causa assignatur 
+          <lb ed="#P" n="7"/>sed dicendum est quod intellectus divinis est in patre potentia et principium generan<lb ed="#P" break="no" n="8"/>di 
+          sicut et in qualibet alia natura intellectuali Intellectus est principium pro<lb ed="#P" break="no" n="9"/>ducendi 
+          suum verbum Intellectus autem dicimus est in patre coniunctus 
+          <lb ed="#P" n="10"/>suo actui generandi aeterno et non interrupto quo quomodo pro<lb ed="#P" break="no" n="11"/>cessationem 
+          quasi possit reiterari et verbum productum ad esse <unclear>ple<lb ed="#P" break="no" n="12"/>ne</unclear> 
+          atque perfecte adaequat ipsam potentiam generandi et completissime 
+          <lb ed="#P" n="13"/>exprimit totum quod exprimendum est quod omne aliud verbum 
+          <lb ed="#P" n="14"/>omnino superflueret Ideo non est possibile ipsum intellectum divinum in alio 
+          <lb ed="#P" n="15"/>supposito divino originare aliud verbum quasi non comple<lb ed="#P" break="no" n="16"/>te 
+          aut non sufficienter et indeficienter in primo supposito 
+          <lb ed="#P" n="17"/>expresserit totum quod exprimendum est et hoc est quod dicit 
+          <lb ed="#P" n="18"/>augustinus quod filius non genuit quia non oportuit utique non opor<lb ed="#P" break="no" n="19"/>tuit 
+          quia intellectus divinus in patre unico actu aeterno et in<lb ed="#P" break="no" n="20"/>deficienti 
+          sufficientissime et completissime exprimit totum 
+          <lb ed="#P" n="21"/>quod exprimendum est et certe intellectus creatus quicumque sit ille 
+          <lb ed="#P" n="22"/>si gignit suum verbum semel pro semper et completissimum cui nihil 
+          <lb ed="#P" n="23"/>addendum aut detrahendum sit itita unicum verbum suum di<lb ed="#P" break="no" n="24"/>cet 
+          <sic>coheternum</sic> sibi et coaequale quod non erit possibile ipsum 
+          <lb ed="#P" n="25"/>aliud verbum suum producere sumi in eodem sumi mali quo sup<lb ed="#P" break="no" n="26"/>posito
+        </p>
+        <p xml:id="Cnyt3a-d1e745-d1e2515">
+          <pc type="pilcrow">¶</pc> possunt tamen hic aliquae propositiones subbrevibus ano<lb ed="#P" break="no" n="27"/>tari
+        </p>
+        <p xml:id="Cnyt3a-d1e745-d1e2523">
+          <pc type="pilcrow">¶</pc> prima propositio si pater aliud verbum gigneret aut non 
+          <lb ed="#P" n="28"/>coheve aut non sufficienter se dixisse <unclear>coniunceretur</unclear> patet 
+          <lb ed="#P" n="29"/>propositio quoniam aut quasi discontinuatum actum recrearet aut sup<lb ed="#P" break="no" n="30"/>pleret 
+          quod deficiebat seu <unclear>euindaret</unclear> in verbo genito et 
+          <lb ed="#P" n="31"/>corrigeret quod in eo non rectum esset
+        </p>
+        <p xml:id="Cnyt3a-d1e745-d1e2542">
+          <pc type="pilcrow">¶</pc>  2a propositio <pc type="pilcrow">¶</pc> Si filius 
+          <lb ed="#P" n="32"/>in divinis aliud verbum gigneret necessario pater gigneret illud idem 
+          <lb ed="#P" n="33"/>probatur propositio quoniam filius gigneret per potentiam sibi communicatam a patre et esset 
+          <lb ed="#P" n="34"/>communis ambobus ergo necessario pater concurreret cum filio actus genera<lb ed="#P" break="no" n="35"/>tionis 
+          cum nichil omnino hoc haberet inpedire sicut de actu spira<lb ed="#P" break="no" n="36"/>tionis 
+          manifestum est
+        </p>
+        <p xml:id="Cnyt3a-d1e745-d1e2562">
+          <pc type="pilcrow">¶</pc> 3a propositio si pater aliud verbum 
+          <lb ed="#P" n="37"/>gigneret posterius isto secundum naturae ordinem filius necessario gig<lb ed="#P" break="no" n="38"/>neret 
+          illud idem patet propositio quoniam pater gignendo filium communicat 
+          <lb ed="#P" n="39"/>sibi eandem potentiam generandi per quam aliud verbum 
+          <lb ed="#P" n="40"/>gigneret ergo filius necessario <unclear>concurreret</unclear> cum patre ad generationem 
+          <lb ed="#P" n="41"/>alterius verbi sicut de actu spirationis certissimum est nam quia pater 
+          <lb ed="#P" n="42"/>in actu generationis communicat filio illam eandem potentiam spira<lb ed="#P" break="no" n="43"/>tivam 
+          per quam spirat spiritum sanctum Ideo filius necessario spirat 
+          <lb ed="#P" n="44"/>eundem simul cum patre sic de actu generationis dicendum est si pater 
+          <lb ed="#P" n="45"/>gigneret secundum verbum
+        </p>
+        <p xml:id="Cnyt3a-d1e745-d1e2589">
+          <pc type="pilcrow">¶</pc> 4us propositio si spiritus sanctus gigneret verbum 
+          <lb ed="#P" n="46"/>in differentiis necesssario pater et filius gigneret illud idem ista patet sicut 
+          <lb ed="#P" n="47"/>2us
+        </p>
+        <p xml:id="Cnyt3a-d1e745-d1e2599">
+          <pc type="pilcrow">¶</pc> 5a propositio si aliqua persona gigneret aliud verbum in divinis 
+          <lb ed="#P" n="48"/>quaecumque sit illa necessario prima persona divina gigneret illud idem 
+          <lb ed="#P" n="49"/>ista patet ex praemissis unde manifestum est quod si filius in divinis aut 
+          <lb ed="#P" n="50"/>spiritus sanctus gigneret aliud filium et ille alius iterum alium et sic 
+          <lb ed="#P" n="51"/>in infinitum necessario pater in tota serie generationis genera<lb ed="#P" break="no" n="52"/>ret 
+          quemlibet alium filius genitum
+        </p>
+        <p xml:id="Cnyt3a-d1e745-d1e2617">
+          <pc type="pilcrow">¶</pc> 6a propositio quam impossibile est 
+          <lb ed="#P" n="53"/>patrem qui est prima persona divina gignere aliud verbum 
+          <lb ed="#P" n="54"/>tam inpossibile est filius aut spiritum sanctum gignere verbum in divi<lb ed="#P" break="no" n="55"/>nis 
+          ista patet ex praemissis 
+        </p>
+        <p xml:id="Cnyt3a-d1e745-d1e2629">
+          <pc type="pilcrow">¶</pc> 7a propositio quam necessariam est intellectum 
+          <lb ed="#P" n="56"/>divinum in patre completissime per unum verbum exprimere 
+          <lb ed="#P" n="57"/>totum quod est in memoria patris tam inpossibile est esse aliud 
+          <lb ed="#P" n="58"/>verbum in divinis patet ista ex dictis 
+        </p>
+        <p xml:id="Cnyt3a-d1e745-d1e2641">
+          <pc type="pilcrow">¶</pc> dico igitur quod filius in 
+          <lb ed="#P" n="59"/>divinis utique potest generare sed impossibile est ipsum generare cuius in<lb ed="#P" break="no" n="60"/>possibilitas
+          consurgit ex eo quod intellectus divinus in patre habet 
+          <lb ed="#P" n="61"/>actum generandi completissimum et coheternum quo unico verbo 
+          <lb ed="#P" n="62"/>plenissime exprimit totum quod est in memoria et in 
+          <lb ed="#P" n="63"/>scientia dei Et ad hoc respicit augustinus cum dicit quod filius non 
+          <lb ed="#P" n="64"/>genuit non quia non potuit sed quia non oportuit
+        </p>
+        <p xml:id="Cnyt3a-d1e745-d1e2660">
+          <pc type="pilcrow">¶</pc> dico igitur ad 
+          <lb ed="#P" n="65"/>argumentum superius factum quod posse generare verbum dupliciter potest intelligi 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="66"/>videlicet ut principium quo et principium quod ut principium quo spectat 
+          <lb ed="#P" n="67"/>ad intellectum in qualibet natura intellectuali Ideo dixi superius 
+          <lb ed="#P" n="68"/>quod posse generare verbum dicit perfectionem in toto genere in<lb ed="#P" break="no" n="69"/>tellectualium 
+          naturarum id est in qualibet tali natura et per consequens dicit perfectionem 
+          <lb ed="#P" n="70"/>simpliciter et sic utique competit filio non ut est persona sed 
+          <lb ed="#P" n="71"/>ut est intellectus divinus posse autem generare verbum ut 
+          <lb ed="#P" n="72"/>principium quod non spectat ad intellectum in aliqua natura intellectuali 
+          <lb ed="#P" n="73"/>sed ad suppositum talis naturae et sic non dicit perfectionem simpliciter Qua 
+          <lb ed="#P" n="74"/>propter licet non competat filio non tamen filio de est aliqua perfectio 
+          <lb ed="#P" n="75"/>simpliciter quemadmodum nec naturae divinae sequitur 8a distinctio
+        </p>
+        </div>
       </div>
     </body>
   </text>
