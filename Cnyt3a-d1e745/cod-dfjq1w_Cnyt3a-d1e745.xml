@@ -55,7 +55,7 @@
           <pb ed="#P" n="a"/>
           <lb ed="#P" n="1"/>Hic solet 
           <lb ed="#P" n="2"/>quaeri a qui<lb ed="#P" break="no" n="3"/>busdam 
-          <lb ed="#P" n="4"/><unclear>Quonaim</unclear> magister in hac 7a dis<lb ed="#P" break="no" n="5"/>tinctione
+          <lb ed="#P" n="4"/><unclear>Quoniam</unclear> magister in hac 7a dis<lb ed="#P" break="no" n="5"/>tinctione
           Investigat de potentia 
           <lb ed="#P" n="6"/>generandi in divinis Ideo circa dis<lb ed="#P" break="no" n="7"/>tinctionem 
           istam quaero istam 
@@ -399,8 +399,8 @@
         </p>
         <p xml:id="Cnyt3a-d1e745-d1e1231">
           <pc type="pilcrow">¶</pc> 2o sic 
-          <pb ed="#S" n="103-v"/>
-          <cb ed="#S" n="a"/>
+          <pb ed="#P" n="103-v"/>
+          <cb ed="#P" n="a"/>
           <lb ed="#P" n="1"/>paternitas est relatio consurgens ex actu generationis et in ipso 
           <lb ed="#P" n="2"/>fundatur ergo actus generandi praecedit relationem paternitatis antecedens 
           <lb ed="#P" n="3"/>patet quoniam paternitas est relatio consurgens ex actione et in ipsa 
