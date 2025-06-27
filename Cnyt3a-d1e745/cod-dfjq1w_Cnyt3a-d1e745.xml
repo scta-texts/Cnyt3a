@@ -44,7 +44,7 @@
     <front>
       <div xml:id="starts-on">
         <pb ed="#P" n="102-v"/>
-        <pb ed="#P" n="a"/>
+        <cb ed="#P" n="a"/>
       </div>
     </front>
     <body>
@@ -52,7 +52,7 @@
         <head xml:id="Cnyt3a-d1e745-Hd1e97">Quaestio 1 [UPenn 727 Transcription]</head>
         <p xml:id="Cnyt3a-d1e745-d1e100">
           <pb ed="#P" n="102-v"/>
-          <pb ed="#P" n="a"/>
+          <cb ed="#P" n="a"/>
           <lb ed="#P" n="1"/>Hic solet 
           <lb ed="#P" n="2"/>quaeri a qui<lb ed="#P" break="no" n="3"/>busdam 
           <lb ed="#P" n="4"/><unclear>Quoniam</unclear> magister in hac 7a dis<lb ed="#P" break="no" n="5"/>tinctione
