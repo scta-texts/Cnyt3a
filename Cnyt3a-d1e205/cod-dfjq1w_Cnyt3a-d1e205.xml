@@ -51,8 +51,8 @@
       <div xml:id="Cnyt3a-d1e205">
         <head xml:id="Cnyt3a-d1e205-Hd1e97">Liber 1, Distinctio 2, Quaestio 1 [UPenn 727 Transcription]</head>
         <p xml:id="Cnyt3a-d1e205-d1e100">
-          <lb ed="#P"/>hoc itaque vera ac pia fide 
-          <lb ed="#P"/><unclear>tenend??</unclear> 
+          <lb ed="#P" n="28"/>hoc itaque vera ac pia fide 
+          <lb ed="#P"/>tenendum est
           <lb ed="#P"/>quod trinitas fit unus 
           <lb ed="#P"/>deus et solus verus deus 
           <lb ed="#P"/>Quoniam magister in hac 2a distinctione primi libri hic ostendentia 
@@ -60,7 +60,7 @@
           <lb ed="#P"/>unum esse Ideo circa istam distinctam quaero primo istam quaestionem
         </p>
         <p xml:id="Cnyt3a-d1e205-d1e120">
-          <lb ed="#P"/><g ref="#pilcrow"/>Utrum deum esse sit ratione naturali efficaciter demonstrabile 
+          <lb ed="#P"/><g ref="#pilcrow"/> Utrum deum esse sit ratione naturali efficaciter demonstrabile 
           <lb ed="#P"/>Et quod parte negativa arguo primo sic Illud verum quod est 
           <lb ed="#P"/>primum principium significabile complexe non est demonstrabile sed deum esse est 
           <lb ed="#P"/>primum principium significabile complexe ergo deum esse non est demonstrabile 
@@ -70,7 +70,7 @@
           <lb ed="#P"/>non est demonstrabile alias esset primum et non primum quod est contradictio
         </p>
         <p xml:id="Cnyt3a-d1e205-d1e144">
-          2o ad idem sit ullum verum per se notum est demonstrabile 
+          <lb ed="#P"/><pc type="pilcrow"/> 2o ad idem sit ullum verum per se notum est demonstrabile 
           <lb ed="#P"/>deum esse est verum per se notum ergo deum esse non de<lb ed="#P"/>monstrabile 
           primum assumptum potest haberi ex <ref xml:id="Cnyt3a-d1e205-Rd1e150">primo <title ref="#PosteriorAnalytics">posteriorum</title></ref> 
           <lb ed="#P"/>quoniam ut ibi patet omne demonstrabile est dubitabile ergo nullum 
@@ -108,7 +108,7 @@
           <lb ed="#P"/><g ref="#pilcrow"/>In ista quaestione iuxta materias 4or 
           <lb ed="#P"/>articulorum ad partem negativam factorum 4or decidam articulos per<lb ed="#P"/>tractandas 
           Et primus <unclear>erit</unclear> iuxta materiam primi argumenti utrum deum 
-          <lb ed="#P"/>esse sit primum principium significabile <corr><del rend="expunctuated">complexum</del> <add place="inLine">complexe</add></corr> et quoniam ostenderetur quod non 
+          <lb ed="#P"/>esse sit primum principium significabile <subst><del rend="expunctuated">complexum</del> <add place="inLine">complexe</add></subst> et quoniam ostenderetur quod non 
           <lb ed="#P"/>Ideo 2us articulus erit iuxta materiam 2i argumenti utrum deum esse sit 
           <lb ed="#P"/>verum omnibus per se notis Et quoniam ostendetur quod non Ideo 3us articulus 
           <lb ed="#P"/>erit iuxta materiam 3i argumenti utrum deum esse sit verum naturali ratione 
@@ -168,7 +168,7 @@
         </p>
         <p xml:id="Cnyt3a-d1e205-d1e450">
           Item naturaliter in 
-          <lb ed="#P"/>creatura potest esse tam alicuius perfecitonis simpliciter in deo sed deum 
+          <lb ed="#P"/>creatura potest esse tam alicuius perfectionis simpliciter in deo sed deum 
           <lb ed="#P"/><del rend="expunctuated">stare</del> scire aliquod tale verum est perfectio simpliciter ergo
         </p>
         <p xml:id="Cnyt3a-d1e205-d1e459">
@@ -268,7 +268,7 @@
           <lb ed="#P"/>et per se <choice><orig>neccessaria</orig><reg>necessaria</reg></choice> esse et non est de divinalis ab alia ullo modo
         </p>
         <p xml:id="Cnyt3a-d1e205-d1e720">
-          <g ref="#pilcrow"/>8a conclusio deum esse potest aliquo modo dici simpliciter primum verum et prius 
+          <lb ed="#P"/><g ref="#pilcrow"/>8a conclusio deum esse potest aliquo modo dici simpliciter primum verum et prius 
           <lb ed="#P"/>quolibet alio quod enuntiat positive de divina essentia 
           <lb ed="#P"/>Ista conclusio probatur nam inter perfectiones simpliciter in divina essentia quamvis 
           <lb ed="#P"/>non sit aliquis ordo causalis ita quod una oriatur ab altera 
@@ -291,7 +291,8 @@
         <p xml:id="Cnyt3a-d1e205-d1e781">
           <g ref="#pilcrow"/>3o ostendam quod conclusiones quas illa positio 
           <lb ed="#P"/>praemittit ad investigandum hanc finale quod deum esse 
-          <cb ed="#P" n="39vb"/><lb ed="#P"/>sit primum principium significabile <corr><del>complexe</del></corr> complexe eam non sufficientia 
+          <cb ed="#P" n="b"/><!-- 39vb -->
+          <lb ed="#P"/>sit primum principium significabile <corr><del>complexe</del></corr> complexe eam non sufficientia 
           <lb ed="#P"/>concludunt
         </p>
         <p xml:id="Cnyt3a-d1e205-d1e797">
@@ -359,7 +360,7 @@
           <lb ed="#P"/>existit <g ref="#dash"/> Alii <unclear>nullo modo</unclear> distinguunt <unclear>quid</unclear> inter essentiam et eius esse 
           <lb ed="#P"/>existentia sed non ponunt distinctionem realem sed solum rationis quid<lb ed="#P"/>quid 
           tamen sit de hac contraversia non sit cur ad praesens <g ref="#slash"/> tantum autem 
-        constet quod simul in hoc conveniunt quod esse essentiae sive ipsa essentia 
+          <lb ed="#P"/>constet quod simul in hoc conveniunt quod esse essentiae sive ipsa essentia 
           <lb ed="#P"/>rei distinguitur a suo esse existentia saltem sit linea a sua 
           <lb ed="#P"/>rectitudine et quod distinguantur hoc duo ad <choice><orig>in vicem</orig><reg>invicem</reg></choice> patet 
           <lb ed="#P"/>multipliciter <g ref="#slash"/> primo quia esse essentiae est esse <unclear>praedicamentale</unclear> per quod una 
@@ -388,7 +389,162 @@
           in quaestionibus accidentis quoniam tale esse accidit rei
         </p>
         <p xml:id="Cnyt3a-d1e205-d1e1146">
-          <lb ed="#P"/><g ref="#pilcrow"/>3o 
+          <lb ed="#P"/><g ref="#pilcrow"/> 3o collicatur praefata distinctio ex eo quod enuntiatio enuntians 
+          <lb ed="#P"/>esse essentiae de re est necessaria cum sit per se et primo moco et omne perfecte 
+          <lb ed="#P"/>est necessariam ut patet <ref>primo <title>posteriorum</title></ref> Enuntians autem esse existentia 
+          <lb ed="#P"/>est contingens tum res contingentis existant igitur multum inter 
+          <lb ed="#P"/>est inter unum esse et reliquum unde doctores sollemnes dix<lb ed="#P"/>erunt
+          et verum dixerunt quod nulla rosa existente haec est vera rosa 
+          <lb ed="#P"/>est flos et rosa est ens et similiter nullo leone existente haec est vera in 
+          <lb ed="#P"/>leo est animal et corpus animatum et substantia et ens ex eo quod istae sunt 
+          <lb ed="#P"/>per se primo modo
+        </p>
+        <p>
+          Item 3o ostendit ista distinctio ex verbis <ref><name>aristotelis</name> 
+          <lb ed="#P"/>2o posteriorum</ref> dicit enim quod de nullo possumus scire quod quid est 
+          <lb ed="#P"/>nisi sciamus ipsum esse quod si de esse existentia intelligeretur falsum esset 
+          <lb ed="#P"/>quod dicitur quoniam esse existenia non praesupponitur quidditati rei sed econverso 
+          <lb ed="#P"/>Intelligitur ergo de esse essentiae quoniam nihil habet quidditatem nisi essentia quae<lb ed="#P"/>dam 
+          pertinens ad aliquod <unclear>praa?n?tum</unclear> dic de nullo possumus scire 
+          <lb ed="#P"/>quid est nisi prius sciamus quod est essentia quaedam est pertineat ad aliquod 
+          <lb ed="#P"/><unclear>prae?ntum</unclear>
+        </p>
+        <p>
+          <pc type="pilcrow"/> Illud ergo quod intelligamus de re tum intelli<lb ed="#P"/>gamus 
+          ipsam esse rem alicuius praesenti illud pertinet ad esse essentiae 
+          <lb ed="#P"/>hoc autem non est existentia rei sed abstrahitur ab esse existentia 
+          <lb ed="#P"/>unde possumus intelligentia rosam vel leonam non intellecto ex<lb ed="#P"/>istentia 
+          eius et sumitur possumus intelligentia leonem esse animal et substantiam 
+          <lb ed="#P"/>et ens non intelligendo eius existere esse igitur essentiae abstra<lb ed="#P"/>hitur 
+          ab esse existere et hoc advenit illi patet igitur quod disting<lb ed="#P"/>untur
+        </p>
+        <p>
+          <pc type="pilcrow"/> 4o ostendendo distinctionem istam ex dictis illius doctoris 
+          <lb ed="#P"/>cuius est positio superius recitata dicit enim quod omnis essentia quae non est ne<lb ed="#P"/>cesse 
+          esse est indifferens ad esse et non esse et potest intelligi tam sub 
+          <lb ed="#P"/>esse quam sub non esse ita quod <unclear>potentialis</unclear> est ad utrumque quid utique verum 
+          <lb ed="#P"/>est
+        </p>
+        <p>
+          <pc>/</pc> sit igitur <c>b</c> vita creata et <unclear>arguit</unclear> <c>b</c> est potentialis ad esse et non esse 
+          <lb ed="#P"/>et est ex se indifferens ad utrumque igitur distinguitur ab utroque ac 
+          <lb ed="#P"/>per hoc distinguitur a suo esse ad quid est potentialis
+        </p>
+        <p>
+          prima consequentia probatur primo 
+          <lb ed="#P"/>vel est potentiale et indifferens ad se ipsum sed <c>b</c> est potentialis et indiffe<lb ed="#P"/>rens 
+          ad esse et non esse igitur ex se non est illud esse ad quod est in potentia 
+          <lb ed="#P"/>et indifferens et sic de non esse ergo est aliqudi distinctum ab utro<lb ed="#P"/>que 
+          Sic enim <name>aristotelis</name> primo phisicorum probavit materiam nec esse formam 
+          <lb ed="#P"/>ad quam eest potentialis natura nec esse privatione quoniam materia est potentialis et 
+          <lb ed="#P"/>indifferens ad utrumque potentialie autem ad duo opposita necessaria 
+          <lb ed="#P"/>distinguitur ab utroque ipsorum unde conclusit habita vicissitu<lb ed="#P"/>dine 
+          privationis et formae <unclear>sin?</unclear> contrariorum quod necesse est aliquid subiec<lb ed="#P"/>ti 
+          contrariis quia igitur <c>b</c> vita creata est potentialis ad esse et non esse et in<lb ed="#P"/>differens 
+          ad utrumque sequitur quod distinguatur ab utroque
+        </p>
+        <p>
+          <pc>/</pc> 2o probatur 
+          <lb ed="#P"/>eadem consequentia sic aut <c>b</c> essentia est formatur illud esse ad quid est potentialis 
+          <lb ed="#P"/>aut non si non et eodem modo arguitur de non esse igitur est aliquid dis<lb ed="#P"/>stinctum 
+          ab utroque si detur quod sic ergo <unclear>idem</unclear> formatur sumptum 
+          <lb ed="#P"/>est potentiale ad se ipsum et idem respectu eiusdem est potentia et actus nam
+          <lb ed="#P"/>esse est actus et <c>b</c> est potentia ipsum hoc autem est impossibile
+        </p>
+        <p>
+          <pc type="pilcrow"/> 3us eadem consequentia probatur sic <c>b</c> est potentialis et indifferens ad esse et non esse 
+          <lb ed="#P"/>ergo abstrahitur ab utroque consequentia nota est quoniam si esse ad <unclear>quid <!-- quod quid abbrev unclear --></unclear> 
+          <lb ed="#P"/>est potentialis esset de ratione <c>b</c> ita quod <c>b</c> non posset abstrahi <c>a</c> 
+          <lb ed="#P"/>tali esse nam <c>b</c> ex se haberet tale esse quoniam ex se habet quid<lb ed="#P"/>quid 
+          est de ratione eius et sic numquam posset esse sub non esse ei opposito 
+          <lb ed="#P"/>si enim materia ex se haberet certam formam ita quod esset talis de ratione 
+          <lb ed="#P"/>materiae numquam materia posset esse sub privatione illius formae 
+          <lb ed="#P"/>Sic similiter si <c>b</c> de se haberet esse ita quod esse esset de sui ratione 
+          <lb ed="#P"/>tunc nec posset abstrahi ab esse nec posset esse sub non 
+          <lb ed="#P"/>esse ei opposito quoniam de se determinantur ad esse et sic non esset potentia<lb ed="#P"/>lis 
+          et indifferens ad utrumque Intelligendum est ergo quod 
+          <lb ed="#P"/>quem ad modum linea de se nec determinat sibi rectitudinem nec 
+          <lb ed="#P"/>curvitatem sed est potentialis et indifferens ad utrumque istorum et ideo 
+          <lb ed="#P"/>necessario abstrahitur ab utroque et ab utroque distinguitur 
+          <lb ed="#P"/>sic de qualibet essentia creabili respectu sui esse existentia et sui non 
+          <lb ed="#P"/>esse existentia quid est valet potentialis ad utrumque et de se indifferens 
+          <lb ed="#P"/>ad utrumque Et ideo abstrahitur ab utroque et distinguitur 
+          <lb ed="#P"/>ab utroque saltim ratione sicut linea a sua rectitudine vel 
+          <lb ed="#P"/>curvitate quemadmodum ergo consideramus primo linea in sua 
+          <lb ed="#P"/>propria quidditate et in hac stat essentia eius et suum esse essentiae et 
+          <lb ed="#P"/>est res <unclear>determinati</unclear> <unclear>praesenti</unclear> et <unclear>determinati</unclear> <unclear>g?cn?s</unclear> <unclear>deinde</unclear> advenit 
+          <lb ed="#P"/>sibi rectitudo vel curvitas quae utraque est extra rationem
+          <lb ed="#P"/>linae a qua potest linea absolvi sic quaelibet essentia creabilis primo 
+          <pb ed="#P" n="40-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P"/>non dat naturae creabili quod sic essentia et quod sit hoc vel 
+          <lb ed="#P"/>sit illud sed solum dat ei quid existat actualiter in ef<lb ed="#P"/>fectu 
+          Si enim deus creat leonem non dat ei quod sit leo vel 
+          <lb ed="#P"/>quid sit animal aut substantia et sic de omnibus essentialibus eius haec 
+          <lb ed="#P"/>omnia leo habet a se et independenter omnino et mistis stat 
+          <lb ed="#P"/>essentia leonis et <unclear>esse</unclear> essentiae hoc ergo esse leo independenter 
+          <lb ed="#P"/>habet sed dat deus huic essentiae per actum creationis quod existat 
+          <lb ed="#P"/>actualiter in rerum natura illud ergo esse est substratum et subiectum crea<lb ed="#P"/>tionis 
+          non est autem illud quid per creationem acquiritur et hiis 
+          <lb ed="#P"/>inspectis patet propositio
+        </p>
+        <p>
+          <pc type="pilcrow"/>ut autem praemissa distinctio cum suis pro<lb ed="#P"/>positionibus 
+          <unclear>incluis</unclear> intelligatur obicio contra 2am e 3am pro<lb ed="#P"/>positiones
+        </p>
+        <p>
+          <pc type="pilcrow"/>Arguunt namque aliqui quod nulla natura creabilis 
+          <lb ed="#P"/>ante actum creationis habuit propriam essentiam et illud esse essentiae de 
+          <lb ed="#P"/>quod dictum est Et primo sit si creatura ante productionem habuit 
+          <lb ed="#P"/>veram entitatem ergo habuit veram actionem quod non est 
+          <lb ed="#P"/>dicendum
+        </p>
+        <p>
+          <pc type="pilcrow"/>2o sic si creatura ante suam creationem habuit totam 
+          <lb ed="#P"/>suam entitatem ergo illud quod est sibi communicatum per actionem cre<lb ed="#P"/>atoris 
+          non pertinebat ad entitatem eius quod autem 
+          <lb ed="#P"/>non pertinet ad entitatem creaturae non est perfectio ei intrineca 
+          <lb ed="#P"/>sed solum illud est de perfectione intrinseca quod pertinet ad eius 
+          <lb ed="#P"/>entitatem ergo creatura ante creationem ita fuit per<lb ed="#P"/>fecta 
+          perfectione intrinseca sicut post creationem quod falsum est
+        </p>
+        <p>
+          <pc type="pilcrow"/> 3o 
+          <lb ed="#P"/>sic si creatura per fationem non plus acquirit quam actu 
+          <lb ed="#P"/>alieni modum essendi et totam entitatem suam habet ante creationem 
+          <lb ed="#P"/>ergo creatura non dicetur simpliciter creari sed tantum secundum quid 
+          <lb ed="#P"/>valet quod est tale secundum quid non est simpliciter tale ergo ista est vera 
+          <lb ed="#P"/>simpliciter creatura non creatur quantumcumque communicetur <unclear>sibi</unclear> per creationem 
+          <lb ed="#P"/>actu animal modus essendi habuit <unclear>etiam</unclear> istum modum essendi 
+          <lb ed="#P"/>actuale in ante creationem quia iste modus essendi est aliqua enim en<lb ed="#P"/>titas 
+          vel realitas <pc type="punctus"/> QUia enim ratione ab aeterno fuit ali<lb ed="#P"/>qua 
+          realitas creaturae ea ratione et omnis et sic creatura 
+          <lb ed="#P"/>fuit in effectu antequam esset in effectu
+        </p>
+        <p>
+          <pc type="pilcrow"/> 4o sic si creatura 
+          <lb ed="#P"/>ante creationem habuit totam suam entitatem creatio qua 
+          <lb ed="#P"/>posita est in effectu non est totalis productio eius sicut nec 
+          <lb ed="#P"/>generatio est totalis productio geniti cum generatio praesupponit aliquid 
+          <lb ed="#P"/>geniti scilicet materiam
+        </p>
+        <p>
+          <pc type="pilcrow"/>5o sic quod praeest <del rend="expunctuation">productioni</del> <unclear>probationi</unclear> non 
+          <lb ed="#P"/>probatur et quid praest factioni non fit ergo quod praeest creationi 
+          <lb ed="#P"/>non creatur Si ergo creatura ante creationem habuit totam 
+          <lb ed="#P"/>suam entitatem ergo non creatur
+        </p>
+        <p>
+          <pc type="pilcrow"/>6o sic Illud secundum 
+          <lb ed="#P"/>veritatem mutatur quod alio modo se habet nunc quam prius ergo 
+          <lb ed="#P"/>si creatura ante creationem habuit totam suam entitatem 
+          <lb ed="#P"/>et alio modo quam post creationem ergo creatura quando creatur 
+          <lb ed="#P"/>mutatur et sic creatio est vera mutatio quod nullus dicit
+        </p>
+        <p>
+          <pc type="pilcrow"/> 7o sic 
+          <lb ed="#P"/>remoto efficiente removetur forma sed ante creatione a 
+          <lb ed="#P"/>creatura removetur efficiens ergo removetur ab ea 
         </p>
         <!-- 40va rehearses 10 arguments of John of Lana, against a real distinction between essence and existence; a position noted as distinctive of Lana by
           zumekellar, p. 34 of translation. Could be important becuase we don't have a sentence commentary by Lana. These arguments could also be in the edition of 
